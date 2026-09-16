@@ -1,0 +1,169 @@
+# TCF Canada Writing Task 2
+
+[Back to the overview](../../README.md)
+
+An article, letter or note reporting an experience, 120 to 150 words.
+
+93 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+
+## Themes
+
+- [Culture](#culture) (36)
+- [Economy](#economy) (1)
+- [Education](#education) (7)
+- [Environment](#environment) (3)
+- [Family](#family) (6)
+- [Health](#health) (9)
+- [Immigration](#immigration) (9)
+- [Miscellaneous](#miscellaneous) (2)
+- [Technology](#technology) (15)
+- [Work](#work) (5)
+
+## Culture
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Rédigez une lettre de plainte concernant les services médiocres fournis par une agence de voyages, suite à un séjour qui s'est mal déroulé. Exprimez votre insatisfaction. | Write a complaint letter expressing dissatisfaction with a travel agency after a poorly organized trip. | 6 sources | 2022-09 | - |
+| 2 | Rédigez un article de blog présentant le meilleur souvenir que vous gardez d'un voyage. | Write a blog post about your favorite travel memory. | 6 sources | 2023-01 | - |
+| 3 | Rédigez un billet de blog racontant pourquoi vous avez décidé de modifier votre alimentation. | Write a blog post about why you changed your eating habits. | 6 sources | 2023-04 | - |
+| 4 | Une compagnie de théâtre s'est établie dans votre ville et vous avez assisté à l'une de ses représentations. Rédigez un billet de blog décrivant ce spectacle. | Write a blog post describing a theater performance you attended. | 6 sources | 2023-04 | - |
+| 5 | Rédigez un article pour votre blog dans lequel vous exprimez votre admiration pour une personne, célèbre ou non. Décrivez ce qu'elle a accompli et expliquez en quoi elle représente une source d'inspiration pour vous. | Write a blog article expressing admiration for a person, describing their actions and why they inspire you. | 6 sources | 2023-05 | - |
+| 6 | Vous avez assisté à un spectacle (film, pièce, concert, etc.) avec des amis et vous avez adoré. Sur votre blog, racontez cette soirée et expliquez les raisons de votre enthousiasme. | The candidate must write a blog post recounting an enjoyable show attended with friends and explaining why they liked it. | 6 sources | 2023-05 | - |
+| 7 | Vous avez découvert une ville que vous ne connaissiez pas encore et vous souhaitez partager cette expérience. Publiez un message sur un site de voyage pour raconter votre visite et préciser ce qui vous a plu et ce qui vous a moins plu dans cette ville. | The candidate must post on a travel website recounting a city visit, mentioning what they liked and disliked. | 6 sources | 2023-05 | - |
+| 8 | Vous avez participé à un concours offrant deux semaines de séjour dans la ville de votre choix, sur le thème « Mon artiste préféré ». Rédigez un article de blog présentant votre artiste préféré. | Write a blog article about your favorite artist as part of a contest entry. | 6 sources | 2023-06 | - |
+| 9 | Vous avez participé à une fête organisée par les voisins de votre quartier. Rédigez un billet de blog pour expliquer ce qui vous a plu dans cet événement. | Write a blog post explaining why you enjoyed a neighborhood party you attended. | 6 sources | 2023-07 | - |
+| 10 | Vous sortez tout juste du concert de votre chanteur/chanteuse préféré(e). Rédigez un article pour votre blog personnel afin de raconter ce moment et donner envie à vos amis et lecteurs d'assister à son prochain concert. | Write a blog post about a concert you attended to encourage others to see the artist next time. | 6 sources | 2023-09 | - |
+| 11 | Vous avez assisté à un événement intitulé « La semaine du goût ». Rédigez un article pour votre blog dans lequel vous racontez cette expérience. | The candidate must write a blog post recounting their experience at a food-themed event called 'La semaine du goût'. | 6 sources | 2023-10 | - |
+| 12 | Écrivez un message à vos amis dans lequel vous racontez votre expérience d'un job d'été que vous avez effectué pendant les vacances. | The candidate must write a message to friends recounting their experience of a summer temporary job. | 6 sources | 2023-11 | - |
+| 13 | Vous venez de passer des vacances dans une magnifique région de votre pays. Écrivez un message destiné à vos amis dans lequel vous racontez ce séjour et expliquez les raisons pour lesquelles vous en garderez un excellent souvenir. | The candidate must write a message to friends recounting a vacation in a beautiful region and explaining why they enjoyed it so much. | 6 sources | 2024-01 | - |
+| 14 | Vous vous êtes rendu(e) à une exposition consacrée à votre artiste favori(te). Rédigez un article relatant cette visite : décrivez ce que vous avez découvert et les impressions que vous en gardez. | Write an article about visiting an exhibition of your favorite artist, describing what you saw and your impressions. | 6 sources | 2024-05 | - |
+| 15 | Vous avez participé à un festival de cinéma où vous avez vu plusieurs films. Sur votre blog personnel, présentez le film que vous avez préféré et expliquez les raisons de ce choix. | Write a blog post about your favorite film seen at a film festival and explain why. | 6 sources | 2025-07 | - |
+| 16 | Écrivez un message à vos amis pour raconter votre passage à un salon du livre (conférences, expositions, rencontre avec des auteurs…). | The candidate must write a message to friends recounting their experience at a book fair. | 5 sources | 2022-11 | - |
+| 17 | Écrivez un billet de blog à propos d'un événement auquel vous avez participé dernièrement (festival, cérémonie, fête, etc.). | The candidate must write a blog post about an event they recently attended. | 5 sources | 2023-02 | - |
+| 18 | Une publicité annonçant un festival de musique gratuit est parue dans votre ville, et vous en avez profité pour y aller avec un ami. Rédigez un article de blog racontant ce que vous avez vécu lors de cet événement musical. | The candidate must write a blog post recounting their experience at a free music festival. | 5 sources | 2023-04 | - |
+| 19 | Vous avez effectué un séjour au Canada organisé par une agence de voyage. Écrivez un avis pour raconter comment s'est déroulé ce voyage. | The candidate must write a review recounting a vacation trip to Canada booked through a travel agency. | 5 sources | 2023-05 | - |
+| 20 | Vous avez suivi un atelier de cuisine. Rédigez un article pour votre blog racontant ce souvenir avec le plus de détails possible. | The candidate must write a blog post describing their memory of taking a cooking class. | 5 sources | 2023-06 | - |
+| 21 | Vous venez de vous lancer dans une nouvelle activité de loisir (sport, danse, etc.). Rédigez un billet de blog pour raconter cette expérience. | The candidate must write a blog post about starting a new leisure activity. | 5 sources | 2023-09 | - |
+| 22 | La direction d'une école de musique recherche un lieu pour organiser une fête réunissant 100 personnes. Rédigez un courriel pour annoncer que vous avez trouvé une salle (emplacement, tarifs, prestations, etc.). | Write an email to a music school's management announcing you found a venue for a 100-person party, with location, prices and services. | 5 sources | 2024-07 | - |
+| 23 | Vous avez participé à un festival (musical, cinématographique, culinaire…) qui vous a laissé un mauvais souvenir. Écrivez un billet pour votre blog où vous exposez les raisons de votre déception. | Write a blog post explaining why a festival you attended disappointed you. | 5 sources | 2025-09 | - |
+| 24 | Vous avez pris la décision de tout quitter pour partir voyager durant une année entière. Écrivez un billet de blog afin de faire découvrir cette expérience hors du commun. | The candidate must write a blog post describing a year-long trip around the world. | 4 sources | 2023-06 | - |
+| 25 | Vous avez pris part à un concours culinaire. Racontez ce souvenir sur votre blog en précisant les détails. | The candidate must write a blog post recounting their memory of a cooking competition with details. | 4 sources | 2023-06 | - |
+| 26 | Deux de vos amis prévoient de venir passer deux semaines de vacances chez vous. Écrivez-leur un message pour leur suggérer des endroits à découvrir (lieux historiques, restaurants, etc.). | The candidate must write a message to two friends coming to stay for two weeks, suggesting places to visit such as historical sites and restaurants. | 4 sources | 2024-07 | - |
+| 27 | Pour participer à un concours en ligne, racontez la fête qui vous a le plus marqué (anniversaire, fête traditionnelle, etc.). | For an online contest, tell about the celebration that has marked you the most. | 3 sources | 2023-05 | - |
+| 28 | Rédigez un article sur votre artiste préféré. | Write an article about your favorite artist. | 3 sources | 2023-05 | - |
+| 29 | Un voyage que vous aviez réservé auprès d'une agence s'est très mal déroulé. Rédigez un courriel à cette agence pour lui faire part de votre mécontentement. | Write an email to a travel agency expressing dissatisfaction about a trip that went badly. | 3 sources | 2023-05 | - |
+| 30 | Vous avez participé à une fête organisée avec vos voisins. Rédigez un article de blog pour raconter cette expérience. | Write a blog article recounting a party experience with your neighbors. | 3 sources | 2023-06 | - |
+| 31 | Rédigez un message à un(e) ami(e) pour lui raconter vos impressions et souvenirs d’un voyage récent dans un pays que vous avez découvert. | The candidate must write to a friend sharing impressions from a recent trip abroad. | 3 sources | 2023-11 | - |
+| 32 | Postez un message sur le forum de la compagnie Air Tropiques dans lequel vous racontez votre plus beau voyage (date, destination, activités, etc.) et expliquez en quoi ce voyage a été particulier pour vous. | Write a forum post recounting your best trip and explaining why it was special. | 3 sources | 2024-01 | - |
+| 33 | Vous prenez part à ce concours. Expliquez pourquoi vous avez sélectionné cet(te) artiste et retracez son parcours de vie. | Write an entry explaining why you chose this artist and telling their life story. | 3 sources | 2024-01 | - |
+| 34 | COURRIER DES LECTEURS Quitter tout pour voyager pendant une année entière : bonne ou mauvaise idée ? Donnez votre réponse sur notre site « voyage.internaute.fr ». Rédigez un message sur ce site en répondant à la question posée, en vous appuyant sur des exemples tirés de votre vécu. | Write a post responding to a reader question about taking a year off to travel, using personal examples. | 3 sources | 2024-08 | - |
+| 35 | Vous n'avez pas été content(e) des prestations proposées lors d'un séjour organisé récemment. Rédigez un courrier à l'agence de voyages pour décrire les difficultés rencontrées, faire part de votre insatisfaction et demander une réparation appropriée. | Write a complaint letter to a travel agency about a disappointing organized trip and request compensation. | 3 sources | 2025-04 | - |
+| 36 | Un Salon du livre a eu lieu dans votre ville et vous y avez participé (conférences, expositions, rencontres avec des écrivains, etc.). Écrivez un message à vos amis pour leur raconter cet événement et leur faire part de vos impressions. | Write a message to friends recounting attendance at a book fair and sharing impressions. | 3 sources | 2025-09 | - |
+
+## Economy
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Vous avez participé à un vide-grenier (vente/achat d'objets d'occasion) dans votre ville. Racontez sur votre blog personnel pourquoi cette expérience vous a plu. | Write a blog post about a flea market experience and why you enjoyed it. | 6 sources | 2023-06 | - |
+
+## Education
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Sur votre blog, racontez votre expérience d'apprentissage d'une langue étrangère. Écrivez sur un forum en ligne pour partager ce vécu. | Write about your experience learning a foreign language on a blog or forum. | 6 sources | 2023-06 | - |
+| 2 | Sur un forum, vous avez pris connaissance d'un débat portant sur les formations à distance. Rédigez un message où vous racontez votre propre expérience (cours de langue, formation professionnelle, etc.), en précisant ce que vous avez apprécié et ce qui vous a moins plu. | The candidate must write a forum message describing their experience with online learning, mentioning what they liked and disliked. | 6 sources | 2023-10 | - |
+| 3 | Vous venez de débuter des cours dans une école de langues. Vous écrivez à vos amis pour raconter votre première semaine, en partageant vos impressions sur l'établissement et les cours. | Write to friends describing your impressions of your first week of language classes. | 5 sources | 2023-10 | - |
+| 4 | Votre établissement scolaire vous a confié l'organisation d'une journée d'accueil pour les nouveaux étudiants francophones. Rédigez un courriel destiné à ces étudiants en précisant tous les détails nécessaires au bon déroulement de cette journée. | The candidate must write an email to new francophone students giving all details for a welcome day they are organizing. | 4 sources | 2023-04 | - |
+| 5 | Sur un forum, racontez votre expérience personnelle dans l'apprentissage d'une langue étrangère. Décrivez votre parcours, les méthodes que vous avez testées ainsi que les difficultés et les progrès rencontrés. | Write a forum post about your personal experience learning a foreign language. | 3 sources | 2025-01 | - |
+| 6 | Votre première semaine de cours à l'Université de Montréal s'achève. Écrivez à un(e) ami(e) pour lui raconter vos débuts et donner votre opinion sur l'établissement et les cours suivis. | The candidate must write to a friend describing their first week at university and give their opinion on it. | 3 sources | 2025-04 | - |
+| 7 | Rédigez un billet de blog racontant votre parcours d'apprentissage d'une langue étrangère (le français ou une autre). Évoquez les obstacles rencontrés, les progrès accomplis et les méthodes qui se sont révélées efficaces. | Write a blog post about your experience learning a foreign language, its challenges, progress and effective methods. | 3 sources | 2025-07 | - |
+
+## Environment
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Vous avez pris part à un événement sur l'écologie organisé dans votre université. Racontez cet événement sur votre blog et dites pourquoi il vous a plu. | Write a blog post narrating an environmental event you attended and why you liked it. | 6 sources | 2023-04 | - |
+| 2 | Vous avez passé une journée à la campagne entre amis. De retour chez vous, publiez un message sur votre forum pour raconter à vos amis le déroulement de cette journée. Précisez ce que vous avez apprécié (activités, lieu, animaux, etc.). | The candidate must post a forum message recounting a day in the countryside and what they enjoyed. | 6 sources | 2024-08 | - |
+| 3 | Vous avez pris part à une initiative organisée pour la « Journée mondiale du nettoyage de notre planète », en ramassant des déchets dans un endroit public (plage, forêt, rue, etc.) aux côtés d'autres bénévoles. Racontez cette expérience à vos amis et expliquez en quoi il est important de s'impliquer dans ce genre d'action. | The candidate must recount to friends their experience taking part in a World Cleanup Day activity and explain why participating matters. | 4 sources | 2024-08 | - |
+
+## Family
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Vous avez vécu un événement marquant (anniversaire, mariage, etc.). Racontez ce souvenir en insistant sur ce qui vous a le plus touché. | Write a narrative about a memorable personal event, highlighting what struck you most. | 6 sources | 2023-01 | - |
+| 2 | Rédigez un message destiné à vos amis pour leur décrire une fête familiale à laquelle vous avez participé récemment. | Write a message to friends describing a family celebration you attended. | 6 sources | 2023-11 | - |
+| 3 | Vous avez participé à une fête de famille. Envoyez un message à vos amis pour leur raconter cet événement et leur dire ce que vous avez préféré. | Write a message to friends recounting a family celebration and what you enjoyed most. | 6 sources | 2024-06 | - |
+| 4 | Vous êtes bénévole dans une association venant en aide aux personnes âgées. Rédigez un billet de blog racontant votre expérience afin d'inciter d'autres personnes à rejoindre l'association. | The candidate must write a blog post about volunteering with elderly people to encourage others to join. | 5 sources | 2024-11 | - |
+| 5 | Racontez votre expérience de bénévole au sein d'une association qui vient en aide aux personnes âgées. | Recount your volunteering experience in an association helping elderly people. | 3 sources | 2023-05 | - |
+| 6 | RUBRIQUE FAMILLE — Cohabiter avec une personne âgée : quels conseils ? Notre site recueille des témoignages. Vous avez partagé votre logement avec une personne âgée. Racontez cette expérience. | The candidate must write a testimonial-style article about their experience living with an elderly person. | 3 sources | 2025-02 | - |
+
+## Health
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Vous avez suivi récemment un cours de sport dans une salle de votre ville. Écrivez un article pour votre blog personnel dans lequel vous racontez cette expérience et donnez votre avis sur cette salle. | The candidate must write a blog article recounting a recent gym class experience and giving their opinion of the gym. | 6 sources | 2023-10 | - |
+| 2 | Vous vous êtes mis récemment à un nouveau sport. Sur votre blog, racontez cette expérience et expliquez en quoi cette activité pourrait plaire à des personnes différentes. | Write a blog post about starting a new sport and why it could appeal to different people. | 4 sources | 2023-11 | - |
+| 3 | Vous êtes allé(e) assister à une compétition sportive. Décrivez cette expérience dans un article publié sur le blog de votre site web (ambiance, organisation, préparatifs, réactions des supporters, etc.). | The candidate must write a blog article about attending a sporting event, describing atmosphere, preparations and fans' reactions. | 4 sources | 2024-07 | - |
+| 4 | www.manger-international.com Ce mois-ci, notre dossier porte sur les habitudes alimentaires à travers le monde. Partagez-nous la façon dont on mange dans votre pays ! Les dix premiers témoignages reçus seront publiés sur notre site ! Après avoir lu cette annonce, rédigez un article destiné aux lecteurs du site « www.manger-international.com ». Décrivez les habitudes alimentaires des habitants de votre pays et précisez celles que vous appréciez ou non, et pour quelles raisons. | The candidate must write an article for a website describing eating habits in their country and explaining which habits they like or dislike and why. | 4 sources | 2024-08 | - |
+| 5 | Vous avez commencé une nouvelle activité sportive. Racontez cette expérience et incitez les autres à s'y mettre également. | Describe your experience starting a sport and encourage others to try it too. | 3 sources | 2023-04 | - |
+| 6 | Vous pratiquez un sport au sein d'un club et vous venez de gagner une compétition. Écrivez un courriel à vos amis pour leur raconter cet événement et leur annoncer votre victoire. | Write an email to friends telling them about winning a sports competition at your club. | 3 sources | 2023-04 | - |
+| 7 | Vous avez vu cette annonce. Rédigez un article destiné aux lecteurs du site « www.manger-international.com », dans lequel vous expliquerez les habitudes alimentaires des habitants de votre pays et préciserez celles que vous appréciez ou non, et pourquoi. | Write an article for a website about your country's eating habits, saying which you like or dislike and why. | 3 sources | 2023-06 | - |
+| 8 | Vous avez participé à une compétition sportive : rédigez un article (blog, magazine, etc.) en précisant le lieu, la date et l'organisation de l'événement. | Write an article about a sports competition you took part in, giving place, date and organization. | 3 sources | 2024-10 | - |
+| 9 | Vous vous êtes récemment lancé(e) dans un nouveau loisir (danse, peinture, sport, etc.). Écrivez un message à vos amis pour leur raconter cette expérience et leur donner votre avis sur cette activité. | Write a message to friends recounting a new hobby and giving an opinion about it. | 3 sources | 2025-11 | - |
+
+## Immigration
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Un(e) étudiant(e) étranger(e) a séjourné une semaine chez vous. Rédigez un article de blog racontant cette expérience et expliquant ce que vous avez apprécié. | Write a blog article about hosting a foreign student for a week and why you enjoyed it. | 6 sources | 2022-11 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-ee-t2-article-blog-semaine-etudiant-etranger-accueil) |
+| 2 | Rédigez un billet de blog racontant votre arrivée dans un pays étranger et vos premières impressions. | The candidate must write a blog post recounting their arrival in a foreign country and first impressions. | 6 sources | 2023-05 | - |
+| 3 | Vous avez assisté à une fête traditionnelle, dans votre pays ou ailleurs. Racontez-la sur votre blog et expliquez pourquoi vous l'avez appréciée. | Write a blog post about attending a traditional festival and why you enjoyed it. | 6 sources | 2023-06 | - |
+| 4 | Vous avez passé un certain temps à étudier dans une université étrangère. Rédigez un article pour votre blog dans lequel vous racontez cette expérience et partagez vos impressions. | Write a blog article recounting a study experience abroad and sharing impressions. | 6 sources | 2023-06 | - |
+| 5 | Lors de vos dernières vacances, vous avez découvert un pays inconnu pour vous. Rédigez un texte sur un site internet dans lequel vous racontez ce séjour et donnez votre avis sur ce pays. | Write a website post recounting your trip to a new country and giving your opinion of it. | 6 sources | 2023-11 | - |
+| 6 | Une jeune étudiante de 19 ans souhaite poursuivre ses études à l'étranger. Sur un forum, elle demande aux internautes de lui raconter leur expérience. Vous, qui avez passé une année à l'étranger, répondez-lui en décrivant votre séjour et vos activités. | The candidate must write a forum reply describing their year abroad and activities to a student planning to study overseas. | 6 sources | 2023-11 | - |
+| 7 | Un internaute a écrit ce message : « Je pars étudier un an à l'étranger et j'ai peur ». Rédigez une réponse dans laquelle vous racontez votre propre expérience. Évoquez les difficultés rencontrées, les solutions trouvées et les avantages que cette expérience vous a apportés. | Write a reply to an online post from someone afraid of studying abroad, sharing your own experience, challenges, solutions and benefits. | 5 sources | 2024-07 | - |
+| 8 | Réagissez à une publication portant sur les études à l'étranger en racontant votre propre expérience dans un commentaire. | The candidate must write a comment sharing their own experience studying abroad, responding to a post. | 3 sources | 2022-10 | - |
+| 9 | Rédigez un article de blog racontant votre expérience d'études à l'étranger (séjour, activités, etc.). | Write a blog post about your study-abroad experience, including your stay and activities. | 3 sources | 2023-05 | - |
+
+## Miscellaneous
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Vous avez participé à un événement appelé « Une semaine sans voiture ». Racontez comment cela s'est passé et donnez votre avis sur cette initiative. Précisez le déroulement (dates, lieu, activités proposées). | The candidate must recount attending a 'car-free week' event, giving their opinion and describing its organization. | 6 sources | 2023-05 | - |
+| 2 | Rédigez un article de blog présentant les habitudes alimentaires de votre pays. | Write a blog article about the eating habits of your country. | 3 sources | 2023-05 | - |
+
+## Technology
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Le site « colocation.com » collecte des témoignages sur les expériences de colocation. Ayant vous-même vécu en colocation avec des amis, racontez cette expérience aux membres du site et donnez votre opinion sur ce mode de vie. | Write a testimonial for a website recounting your flat-sharing experience and giving your opinion on it. | 6 sources | 2023-01 | - |
+| 2 | Vous avez quitté la ville pour aller vivre à la campagne. Sur un forum en ligne, expliquez les raisons de ce choix et présentez les avantages de votre nouveau mode de vie. | Write a forum post explaining why you moved to the countryside and its benefits. | 6 sources | 2023-04 | - |
+| 3 | Vous êtes membre d'une association de quartier qui organise des activités pour les enfants (aide aux devoirs, sorties, jeux, etc.). Sur le site web de l'association, racontez votre expérience et expliquez l'utilité de ce genre d'association. | The candidate must write a website post about their experience volunteering in a neighborhood children's association and explain its usefulness. | 6 sources | 2023-11 | - |
+| 4 | Vous avez pris part à une compétition sportive. Sur votre site Internet personnel, racontez ce vécu et donnez votre avis sur ce genre d'activité. | The candidate must write a blog entry recounting a sports competition and giving their opinion on such activities. | 4 sources | 2023-06 | - |
+| 5 | Cohabiter avec des personnes âgées, est-ce vraiment simple ? Un site internet collecte des témoignages sur la vie quotidienne avec des personnes âgées. Racontez votre expérience et expliquez comment vous avez géré cette cohabitation. | Write a testimonial about your experience living with elderly people and how you managed it. | 4 sources | 2023-11 | - |
+| 6 | Racontez sur un site internet une compétition sportive à laquelle vous avez pris part (l'atmosphère, les moments marquants, vos émotions). | Write a blog post recounting a sports competition you took part in. | 4 sources | 2023-11 | - |
+| 7 | Racontez votre expérience personnelle lorsque vous avez participé à une émission télévisée. Précisez les circonstances de cette participation, ce que vous y avez fait, et ce que vous en avez retenu. | The candidate must narrate their personal experience of appearing on a TV show, including context, role and impressions. | 4 sources | 2024-06 | - |
+| 8 | "Faut-il installer une télévision dans la chambre à coucher ?" Exprimez votre opinion sur ce sujet dans un article de blog. | The candidate must write a blog article giving their opinion on having a TV in the bedroom. | 4 sources | 2024-11 | - |
+| 9 | Vous répondez sur ce site internet à la question posée, en illustrant votre réponse par des exemples tirés de votre propre vie. | Answer the question on the website using examples from your own life. | 3 sources | 2023-06 | - |
+| 10 | Votre municipalité a mis en place une opération « une semaine sans voiture ». Rédigez un article destiné à un site internet pour relater le déroulement de cet événement. | The candidate must write an article about a 'car-free week' event organized by their city. | 3 sources | 2023-09 | - |
+| 11 | Vous avez lu ce message sur un forum en ligne. Répondez à Paul et Naïma en leur donnant votre avis sur leur décision et en expliquant ce que vous feriez à leur place. | Respond to a forum post giving your opinion on a couple's decision and what you would do in their place. | 3 sources | 2024-06 | - |
+| 12 | « Tout abandonner pour un nouveau départ ? Il y a deux ans, nous avons décidé de tout changer. Paul a démissionné de son poste de banquier à Paris et nous avons ouvert une pâtisserie à Calgary ! Qu'en pensez-vous ? Paul et Naïma. » Vous avez lu ce message sur un forum en ligne. Répondez à Paul et Naïma en donnant votre opinion sur leur décision et en racontant ce que vous feriez à leur place. | Respond to a forum post about a couple who changed careers, giving your opinion and what you would do. | 3 sources | 2024-07 | - |
+| 13 | « Bonjour, Vous avez suivi des cours dans notre salle de sport. Partagez votre avis sur notre site Internet ! www.masalledesport.org ». Répondez à ce message sur le site de la salle de sport en racontant votre expérience et en donnant votre opinion. | Write an online review recounting your gym experience and giving your opinion. | 3 sources | 2024-12 | - |
+| 14 | À l'occasion de la Semaine du goût, vous avez participé à une activité de découverte des cuisines du monde. Rédigez un article pour le site Internet de votre ville, dans lequel vous racontez votre expérience et précisez ce qui vous a plu. | Write a website article recounting participation in a world cuisine discovery event and what was enjoyed. | 3 sources | 2025-11 | - |
+| 15 | Vous avez pris part à un concours culinaire. Sur votre site Internet, vous racontez le déroulement de cette journée et précisez ce qui vous a plu ou moins plu dans cette expérience. | Write a blog post recounting a cooking contest and what you liked or disliked about it. | 3 sources | 2026-01 | - |
+
+## Work
+
+| # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Votre société recherche une salle capable d'accueillir cent invités pour sa fête de fin d'année. Rédigez un message à la direction pour présenter le lieu que vous avez déniché, en précisant son emplacement, son coût et les prestations comprises. | Write a message informing management about a venue found for the company's year-end party, with location, price, and included services. | 6 sources | 2023-07 | - |
+| 2 | Vous êtes parti(e) travailler dans un pays étranger. Écrivez un message à vos amis pour leur raconter cette nouvelle expérience professionnelle et leur indiquer ce que vous avez apprécié le plus. | Write a message to friends recounting a work experience abroad and what you enjoyed most about it. | 6 sources | 2024-05 | - |
+| 3 | Vous venez de suivre une journée de formation dans votre entreprise. Écrivez un article destiné à un forum interne pour raconter à vos collègues votre expérience et ce que vous en avez retenu de positif. | Write a forum article for colleagues sharing your experience and what you appreciated about a company training day. | 4 sources | 2023-08 | - |
+| 4 | L'école de votre quartier organise un projet pour faire découvrir divers métiers aux élèves. Souhaitant y contribuer en racontant votre parcours, vous rédigez un texte destiné aux enseignants dans lequel vous décrivez votre profession (tâches quotidiennes, collègues, etc.) et expliquez les raisons pour lesquelles vous appréciez ce métier. | The candidate must write to teachers describing their job and explaining why they find it interesting. | 4 sources | 2024-09 | - |
+| 5 | Vous venez de participer à un pique-nique organisé avec vos collègues de travail. Vous rédigez un article pour le journal interne de votre entreprise, dans lequel vous racontez le déroulement de cet événement (endroit, repas, temps qu'il faisait, etc.). | Write an article for the company newsletter recounting the picnic with colleagues. | 4 sources | 2025-04 | - |
+
+---
+
+**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
+
+Content licensed [CC BY 4.0](../../LICENSE) - credit [FlexiLingo](https://www.flexilingo.com) with a link when you reuse it.
