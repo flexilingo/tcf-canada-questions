@@ -4,20 +4,20 @@
 
 Give and defend your point of view, no preparation, 4 minutes 30.
 
-257 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+262 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (27)
-- [Economy](#economy) (5)
-- [Education](#education) (26)
+- [Economy](#economy) (6)
+- [Education](#education) (27)
 - [Environment](#environment) (13)
 - [Family](#family) (24)
 - [Health](#health) (19)
 - [Immigration](#immigration) (38)
 - [Miscellaneous](#miscellaneous) (40)
 - [Technology](#technology) (30)
-- [Work](#work) (35)
+- [Work](#work) (38)
 
 ## Culture
 
@@ -60,6 +60,7 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 3 | Que pensez-vous des habitudes de consommation dans les pays riches ? | The candidate must analyze and give an opinion on consumption habits in wealthy countries. | 7 sources | 2024-03 | - |
 | 4 | Manger bio serait un luxe réservé aux plus fortunés ? Partagez-vous cette opinion ? | The candidate must give and defend their opinion on whether eating organic food is only for the wealthy. | 6 sources | 2023-04 | - |
 | 5 | Je travaille dans un office de tourisme. Vous voulez partir en week-end sans dépenser beaucoup d'argent. Demandez-moi des conseils (destinations, activités, moyens de transport, etc.). | Ask a tourism office employee for advice on a low-budget weekend trip. | 5 sources | 2023-06 | - |
+| 6 | En tant qu'ami(e), j'ai mangé dans un restaurant à Ottawa, et vous aimeriez le découvrir aussi. Posez-moi des questions (type de cuisine, prix, atmosphère, etc.). | The candidate must ask the examiner (playing a friend) questions about a restaurant in Ottawa. | 5 sources | 2023-07 | - |
 
 ## Education
 
@@ -86,11 +87,12 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | 19 | Selon vous, les nouvelles technologies ont-elles un effet bénéfique sur l'éducation des enfants ? | Give and defend your opinion on whether new technologies positively impact children's education. | 5 sources | 2022-12 | - |
 | 20 | Selon vous, faudrait-il interdire les téléphones portables dans les écoles ? Pour quelles raisons ? | The candidate must give and defend an opinion on banning mobile phones at school. | 5 sources | 2023-04 | - |
 | 21 | Je suis un parent d'élève. Vous souhaitez inscrire vos enfants à une activité extrascolaire. Demandez-moi des informations et des conseils sur les options disponibles dans le quartier (nature des activités, horaires, tarifs, encadrement, etc.). | Ask a fellow parent for advice about after-school activities for your children (type, schedule, price, supervision). | 5 sources | 2023-05 | - |
-| 22 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
-| 23 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
-| 24 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
-| 25 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
-| 26 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 5 sources | 2025-12 | - |
+| 22 | Je partage un appartement à Winnipeg avec des colocataires. Une chambre est libre. Vous êtes intéressé(e). Posez-moi des questions pour en savoir plus sur le logement (chambre et pièces communes, loyer, autres colocataires, etc.). | The candidate must ask the examiner (playing a roommate) questions about a room available for rent. | 5 sources | 2023-07 | - |
+| 23 | Faut-il obligatoirement avoir fait de longues études pour réussir sa vie ? | Give your opinion on whether long studies are necessary to succeed in life. | 5 sources | 2024-10 | - |
+| 24 | La diversité en milieu scolaire favorise-t-elle l'épanouissement de tous les élèves ? Partagez-vous ce point de vue ? | The candidate must give and defend an opinion on whether school diversity benefits all students. | 5 sources | 2024-10 | - |
+| 25 | Les entreprises devraient offrir à leurs salariés la possibilité de se former tout au long de leur carrière. Cela est-il utile à tous ? Quelle est votre position sur ce sujet ? | The candidate must give and defend an opinion on lifelong training offered by employers. | 5 sources | 2025-03 | - |
+| 26 | Pensez-vous que la mixité sociale (des élèves d'origines sociales et culturelles diverses) à l'école aide à développer la tolérance ? Pourquoi ? | The candidate must give and defend an opinion on whether social diversity in schools fosters tolerance. | 5 sources | 2025-03 | - |
+| 27 | Pensez-vous qu’il soit indispensable de parler la langue du pays où l’on réside ? Pourquoi ? | Give and defend your opinion on whether it's essential to speak the language of the country one lives in. | 5 sources | 2025-12 | - |
 
 ## Environment
 
@@ -292,39 +294,42 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 | --- | --- | --- | --- | --- | --- |
 | 1 | Pensez-vous qu'il soit préférable d'exercer plusieurs métiers au cours d'une même vie professionnelle ? Donnez votre opinion sur cette question. | Give and defend your opinion on whether it's good to have several different careers in one's life. | 7 sources | 2022-08 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t3-plusieurs-metiers-au-cours-d-une-carriere) |
 | 2 | Pour être embauché, l’expérience compte-t-elle davantage que les diplômes ? Partagez-vous ce point de vue ? | The candidate must state and justify their opinion on whether experience matters more than diplomas for hiring. | 6 sources | 2024-09 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-eo-t3-experience-ou-diplomes-recrutement) |
-| 3 | Selon vous, quel est l’avantage de vivre une expérience professionnelle ou universitaire à l’étranger ? | The candidate must give and defend an opinion on the benefit of studying or working abroad. | 8 sources | 2024-07 | - |
-| 4 | Aujourd'hui, est-il possible de changer de profession quel que soit son âge ? Donnez votre point de vue. | Give and defend your opinion on whether one can change careers at any age nowadays. | 7 sources | 2022-09 | - |
-| 5 | L'arrivée d'internet a-t-elle changé nos façons de travailler ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether the internet has changed workplace behavior. | 7 sources | 2022-11 | - |
-| 6 | L'essor du télétravail profite-t-il vraiment à tout le monde ? Donnez votre opinion et justifiez-la. | Give your opinion on whether the rise of remote work benefits everyone. | 7 sources | 2023-02 | - |
-| 7 | Les entreprises devraient-elles permettre à leurs salariés de faire la sieste pendant les heures de travail ? Donnez votre avis. | Give your opinion on whether employers should allow napping at work. | 7 sources | 2023-02 | - |
-| 8 | On devrait interdire l'usage des téléphones portables personnels sur le lieu de travail. Qu'en pensez-vous ? | Give and defend an opinion on banning personal phones at work. | 7 sources | 2023-03 | - |
-| 9 | Le salaire constitue-t-il le critère principal dans le choix d'un emploi ? Partagez-vous ce point de vue ? | Give and defend an opinion on whether salary is the most important factor in a job. | 7 sources | 2023-04 | - |
-| 10 | En supposant que vous vous installiez au Canada, pensez-vous qu'il vous serait aisé de décrocher un emploi ? Expliquez votre réponse. | Give your opinion on whether you would easily find work if you moved to Canada, with reasons. | 7 sources | 2023-06 | - |
-| 11 | Selon vous, faut-il aimer son travail pour être plus performant dans son travail ? | Give your opinion on whether loving one's job makes one more productive. | 7 sources | 2023-07 | - |
-| 12 | Selon vous, faut-il aimer son métier pour réussir sa vie professionnelle ? Justifiez votre réponse. | State and defend your opinion on whether loving one's job is necessary for career success. | 7 sources | 2023-11 | - |
-| 13 | Le maintien en activité des personnes âgées est-il bénéfique pour la société ? | State and defend your opinion on whether elderly people working benefits society. | 7 sources | 2023-12 | - |
-| 14 | D'après vous, le salaire constitue-t-il la principale source de motivation des employés dans une entreprise ? Justifiez votre réponse. | State and defend an opinion on whether salary is the main motivator for employees. | 7 sources | 2024-03 | - |
-| 15 | Trouver un emploi serait plus compliqué lorsqu'on est jeune ? Partagez-vous cette opinion ? Justifiez votre réponse. | The candidate must give and defend their opinion on whether it's harder for young people to find work. | 6 sources | 2023-02 | - |
-| 16 | Dans une entreprise, tous les salariés devraient toucher le même salaire. Que pensez-vous de cette affirmation ? | The candidate must give and defend an opinion on equal salaries within a company. | 6 sources | 2023-06 | - |
-| 17 | Faire des études permet-il de réussir sa vie professionnelle ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether studying leads to professional success. | 6 sources | 2023-08 | - |
-| 18 | Jugez-vous qu'une expérience à l'étranger soit indispensable dans un parcours professionnel ? Expliquez pourquoi. | Give your opinion on whether having experience abroad is necessary in a professional career. | 6 sources | 2024-07 | - |
-| 19 | Pensez-vous qu’une personne ayant vécu dans plusieurs pays a de meilleures perspectives professionnelles ? | The candidate must give an opinion on whether living in several countries improves career prospects. | 6 sources | 2024-09 | - |
-| 20 | Le télétravail favorise un meilleur équilibre entre la vie professionnelle et la vie privée. Qu'en pensez-vous ? | Give and defend your opinion on whether remote work provides a good work-life balance. | 6 sources | 2024-10 | - |
-| 21 | Pour gravir les échelons dans son entreprise, la compétence professionnelle suffit-elle ? Que pensez-vous de cette affirmation ? | The candidate must analyze and give an opinion on whether professional competence alone is enough for career advancement. | 6 sources | 2024-10 | - |
-| 22 | Quel métier aimeriez-vous essayer, à votre avis ? Justifiez votre choix. | Explain and defend which job you would like to try and why. | 6 sources | 2025-01 | - |
-| 23 | Selon vous, les salariés sont-ils motivés principalement par leur rémunération ? Pourquoi ? | The candidate must give and defend an opinion on whether salary is the main motivator for employees. | 6 sources | 2025-01 | - |
-| 24 | Faut-il obligatoirement faire de longues études pour réussir sa vie professionnelle ? Partagez-vous cet avis ? | Give and defend your opinion on whether long studies are essential for a successful career. | 6 sources | 2025-04 | - |
-| 25 | Pensez-vous que certains métiers sont plus utiles que d'autres ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether some jobs are more useful than others. | 6 sources | 2025-07 | - |
-| 26 | D'après vous, le plus essentiel dans l'existence, c'est de se sentir épanoui dans son emploi ? Exposez et défendez votre opinion sur cette question. | The candidate must give and defend their opinion on whether being happy at work is the most important thing in life. | 6 sources | 2025-10 | - |
-| 27 | Pensez-vous qu'il soit essentiel d'encourager le bien-être des employés sur leur lieu de travail ? | Give and defend your opinion on whether workplace well-being should be promoted. | 5 sources | 2022-11 | - |
-| 28 | Faut-il absolument posséder des diplômes pour réussir sa vie professionnelle ? Expliquez votre position. | Give and defend your opinion on whether diplomas are necessary for career success. | 5 sources | 2022-12 | - |
-| 29 | D'après certains économistes, les nouvelles technologies feraient disparaître de nombreux emplois. Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether new technologies destroy jobs. | 5 sources | 2023-02 | - |
-| 30 | Pour réussir sa carrière professionnelle, il faudrait avant tout être physiquement séduisant. Partagez-vous cette opinion ? | The candidate must give and defend an opinion on whether physical attractiveness is essential for professional success. | 5 sources | 2023-03 | - |
-| 31 | Les employeurs devraient-ils favoriser la formation continue tout au long de la carrière ? Cela profite-t-il à tous ? | The candidate must give and defend an opinion on employers encouraging lifelong training. | 5 sources | 2024-10 | - |
-| 32 | Chacun devrait pouvoir choisir de travailler à distance. Qu'en pensez-vous ? | The candidate must give and defend an opinion on everyone having the right to work remotely. | 5 sources | 2025-01 | - |
-| 33 | Selon vous, avoir séjourné dans un pays étranger représente-t-il un avantage pour construire une carrière réussie ? | The candidate must give and defend an opinion on whether living abroad helps career success. | 5 sources | 2025-02 | - |
-| 34 | Selon vous, jusqu'à quel âge peut-on raisonnablement continuer à travailler ? Justifiez votre réponse. | The candidate must give and defend an opinion on the reasonable age limit for working. | 5 sources | 2025-03 | - |
-| 35 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
+| 3 | Vous exposez votre point de vue à l'examinateur sur la question suivante : est-il aisé d'exercer une activité professionnelle dans un pays étranger ? | Give and defend your opinion on whether it is easy to work abroad. | 8 sources | 2022-11 | - |
+| 4 | Selon vous, quel est l’avantage de vivre une expérience professionnelle ou universitaire à l’étranger ? | The candidate must give and defend an opinion on the benefit of studying or working abroad. | 8 sources | 2024-07 | - |
+| 5 | Aujourd'hui, est-il possible de changer de profession quel que soit son âge ? Donnez votre point de vue. | Give and defend your opinion on whether one can change careers at any age nowadays. | 7 sources | 2022-09 | - |
+| 6 | L'arrivée d'internet a-t-elle changé nos façons de travailler ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether the internet has changed workplace behavior. | 7 sources | 2022-11 | - |
+| 7 | L'essor du télétravail profite-t-il vraiment à tout le monde ? Donnez votre opinion et justifiez-la. | Give your opinion on whether the rise of remote work benefits everyone. | 7 sources | 2023-02 | - |
+| 8 | Les entreprises devraient-elles permettre à leurs salariés de faire la sieste pendant les heures de travail ? Donnez votre avis. | Give your opinion on whether employers should allow napping at work. | 7 sources | 2023-02 | - |
+| 9 | On devrait interdire l'usage des téléphones portables personnels sur le lieu de travail. Qu'en pensez-vous ? | Give and defend an opinion on banning personal phones at work. | 7 sources | 2023-03 | - |
+| 10 | Le salaire constitue-t-il le critère principal dans le choix d'un emploi ? Partagez-vous ce point de vue ? | Give and defend an opinion on whether salary is the most important factor in a job. | 7 sources | 2023-04 | - |
+| 11 | En supposant que vous vous installiez au Canada, pensez-vous qu'il vous serait aisé de décrocher un emploi ? Expliquez votre réponse. | Give your opinion on whether you would easily find work if you moved to Canada, with reasons. | 7 sources | 2023-06 | - |
+| 12 | Selon vous, faut-il aimer son travail pour être plus performant dans son travail ? | Give your opinion on whether loving one's job makes one more productive. | 7 sources | 2023-07 | - |
+| 13 | Selon vous, faut-il aimer son métier pour réussir sa vie professionnelle ? Justifiez votre réponse. | State and defend your opinion on whether loving one's job is necessary for career success. | 7 sources | 2023-11 | - |
+| 14 | Le maintien en activité des personnes âgées est-il bénéfique pour la société ? | State and defend your opinion on whether elderly people working benefits society. | 7 sources | 2023-12 | - |
+| 15 | D'après vous, le salaire constitue-t-il la principale source de motivation des employés dans une entreprise ? Justifiez votre réponse. | State and defend an opinion on whether salary is the main motivator for employees. | 7 sources | 2024-03 | - |
+| 16 | Trouver un emploi serait plus compliqué lorsqu'on est jeune ? Partagez-vous cette opinion ? Justifiez votre réponse. | The candidate must give and defend their opinion on whether it's harder for young people to find work. | 6 sources | 2023-02 | - |
+| 17 | Dans une entreprise, tous les salariés devraient toucher le même salaire. Que pensez-vous de cette affirmation ? | The candidate must give and defend an opinion on equal salaries within a company. | 6 sources | 2023-06 | - |
+| 18 | Faire des études permet-il de réussir sa vie professionnelle ? Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether studying leads to professional success. | 6 sources | 2023-08 | - |
+| 19 | Les diplômes comptent-ils davantage que l'expérience professionnelle ? Faut-il avoir de l'expérience pour trouver un emploi ? | Give and defend your opinion on whether diplomas matter more than experience for getting a job. | 6 sources | 2024-01 | - |
+| 20 | Jugez-vous qu'une expérience à l'étranger soit indispensable dans un parcours professionnel ? Expliquez pourquoi. | Give your opinion on whether having experience abroad is necessary in a professional career. | 6 sources | 2024-07 | - |
+| 21 | Pensez-vous qu’une personne ayant vécu dans plusieurs pays a de meilleures perspectives professionnelles ? | The candidate must give an opinion on whether living in several countries improves career prospects. | 6 sources | 2024-09 | - |
+| 22 | Le télétravail favorise un meilleur équilibre entre la vie professionnelle et la vie privée. Qu'en pensez-vous ? | Give and defend your opinion on whether remote work provides a good work-life balance. | 6 sources | 2024-10 | - |
+| 23 | Pour gravir les échelons dans son entreprise, la compétence professionnelle suffit-elle ? Que pensez-vous de cette affirmation ? | The candidate must analyze and give an opinion on whether professional competence alone is enough for career advancement. | 6 sources | 2024-10 | - |
+| 24 | Quel métier aimeriez-vous essayer, à votre avis ? Justifiez votre choix. | Explain and defend which job you would like to try and why. | 6 sources | 2025-01 | - |
+| 25 | Selon vous, les salariés sont-ils motivés principalement par leur rémunération ? Pourquoi ? | The candidate must give and defend an opinion on whether salary is the main motivator for employees. | 6 sources | 2025-01 | - |
+| 26 | Faut-il obligatoirement faire de longues études pour réussir sa vie professionnelle ? Partagez-vous cet avis ? | Give and defend your opinion on whether long studies are essential for a successful career. | 6 sources | 2025-04 | - |
+| 27 | Pensez-vous que certains métiers sont plus utiles que d'autres ? Quel est votre avis sur cette question ? | Give and defend your opinion on whether some jobs are more useful than others. | 6 sources | 2025-07 | - |
+| 28 | D'après vous, le plus essentiel dans l'existence, c'est de se sentir épanoui dans son emploi ? Exposez et défendez votre opinion sur cette question. | The candidate must give and defend their opinion on whether being happy at work is the most important thing in life. | 6 sources | 2025-10 | - |
+| 29 | Pensez-vous qu'il soit essentiel d'encourager le bien-être des employés sur leur lieu de travail ? | Give and defend your opinion on whether workplace well-being should be promoted. | 5 sources | 2022-11 | - |
+| 30 | Faut-il absolument posséder des diplômes pour réussir sa vie professionnelle ? Expliquez votre position. | Give and defend your opinion on whether diplomas are necessary for career success. | 5 sources | 2022-12 | - |
+| 31 | D'après certains économistes, les nouvelles technologies feraient disparaître de nombreux emplois. Quel est votre avis sur cette question ? | The candidate must give and defend an opinion on whether new technologies destroy jobs. | 5 sources | 2023-02 | - |
+| 32 | Pour réussir sa carrière professionnelle, il faudrait avant tout être physiquement séduisant. Partagez-vous cette opinion ? | The candidate must give and defend an opinion on whether physical attractiveness is essential for professional success. | 5 sources | 2023-03 | - |
+| 33 | Je suis votre collègue et je suis des cours de langue financés par l'entreprise. Cela vous intéresse. Posez-moi des questions à ce sujet (langues enseignées, horaires, qualité des cours, etc.). | The candidate must ask the examiner (playing a colleague) questions about company-funded language courses. | 5 sources | 2023-07 | - |
+| 34 | Les employeurs devraient-ils favoriser la formation continue tout au long de la carrière ? Cela profite-t-il à tous ? | The candidate must give and defend an opinion on employers encouraging lifelong training. | 5 sources | 2024-10 | - |
+| 35 | Chacun devrait pouvoir choisir de travailler à distance. Qu'en pensez-vous ? | The candidate must give and defend an opinion on everyone having the right to work remotely. | 5 sources | 2025-01 | - |
+| 36 | Selon vous, avoir séjourné dans un pays étranger représente-t-il un avantage pour construire une carrière réussie ? | The candidate must give and defend an opinion on whether living abroad helps career success. | 5 sources | 2025-02 | - |
+| 37 | Selon vous, jusqu'à quel âge peut-on raisonnablement continuer à travailler ? Justifiez votre réponse. | The candidate must give and defend an opinion on the reasonable age limit for working. | 5 sources | 2025-03 | - |
+| 38 | À votre avis, quelles démarches un jeune devrait-il entreprendre pour décrocher un emploi ? | The candidate must give their opinion on what a young person should do to find a job. | 5 sources | 2026-01 | - |
 
 ---
 

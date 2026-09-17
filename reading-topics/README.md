@@ -4,19 +4,19 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-41 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+46 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (11)
-- [Economy](#economy) (6)
+- [Economy](#economy) (9)
 - [Education](#education) (2)
 - [Environment](#environment) (4)
 - [Health](#health) (8)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (4)
 - [Technology](#technology) (2)
-- [Work](#work) (3)
+- [Work](#work) (5)
 
 ## Culture
 
@@ -44,6 +44,9 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 4 | Un article dénonçant le phénomène d'exclusion bancaire. | An article denouncing bank account exclusion. | 1 source | 2026-09 | - |
 | 5 | Un article portant sur l'industrie du vin et ses défis actuels. | An article about the wine industry and its challenges. | 1 source | 2026-09 | - |
 | 6 | Un article sur la publicité imprimée sur papier. | An article about paper-based advertising. | 1 source | 2026-09 | - |
+| 7 | Un article sur un partenariat entre une chaîne de télévision et des compagnies aériennes. | An article about a partnership between a TV channel and airlines. | 1 source | 2026-09 | - |
+| 8 | Un article sur une stratégie de fusion entre banques. | An article about a bank merger strategy. | 1 source | 2026-09 | - |
+| 9 | Un article traitant d'une innovation dans la conception de la bouteille de champagne. | An article about an innovation in champagne bottle design. | 1 source | 2026-09 | - |
 
 ## Education
 
@@ -103,6 +106,8 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | 1 | Un article décrivant la stratégie commerciale adoptée par une entreprise. | An article about a company's business strategy. | 2 sources | 2026-09 | - |
 | 2 | Une annonce présentant un événement destiné au recrutement de candidats. | An ad about a job recruitment event. | 2 sources | 2026-09 | - |
 | 3 | Deux articles exposent des arguments favorables et défavorables à la pratique de la sieste au travail. | Two articles debating the pros and cons of napping at work. | 1 source | 2026-09 | - |
+| 4 | Un article traitant de l'âge légal du départ à la retraite en France. | An article about the legal retirement age in France. | 1 source | 2026-09 | - |
+| 5 | Un article traitant de l'évolution des méthodes de recrutement des pompiers. | An article about changes in firefighter recruitment. | 1 source | 2026-09 | - |
 
 ---
 

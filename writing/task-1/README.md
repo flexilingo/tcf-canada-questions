@@ -4,17 +4,17 @@
 
 A message to one or more people, 60 to 120 words.
 
-105 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+110 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (32)
+- [Culture](#culture) (33)
 - [Economy](#economy) (6)
 - [Education](#education) (14)
 - [Family](#family) (12)
-- [Health](#health) (12)
+- [Health](#health) (14)
 - [Immigration](#immigration) (3)
-- [Miscellaneous](#miscellaneous) (13)
+- [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
 - [Work](#work) (11)
 
@@ -51,9 +51,10 @@ A message to one or more people, 60 to 120 words.
 | 27 | Le journal « Bienvenue » prépare un article sur les habitants de notre ville et vous invite à rédiger un message pour cette publication. Vous venez de vous installer dans cette ville : présentez-vous, puis décrivez tous vos endroits préférés dans la ville. | Write a message introducing yourself as a new resident and describing your favorite spots in the city. | 4 sources | 2023-12 | - |
 | 28 | Vous avez assisté à cet événement et souhaitez en faire part à vos amis. Rédigez un message racontant votre journée et donnant votre opinion sur cette manifestation. | Write a message to friends recounting attending the event and giving your opinion of it. | 4 sources | 2024-08 | - |
 | 29 | L'idée de voyager et de découvrir un autre pays m'attire vraiment. Pourrais-tu me raconter un peu ton pays et sa culture ? | Ask a friend to tell you about their country and its culture. | 4 sources | 2024-10 | - |
-| 30 | Votre école de musique est à la recherche d'une salle pour organiser la fête de fin d'année. Envoyez un message à la direction pour l'informer que vous avez déniché une salle parfaite pour l'occasion. | Write a message to your music school's management announcing you found an ideal venue for the year-end party. | 3 sources | 2023-04 | - |
-| 31 | Vous avez passé des vacances dans une magnifique région de votre pays. Écrivez un message à vos amis pour leur raconter ce séjour et leur dire ce qui vous a le plus plu. | Write a message to friends recounting a vacation and what you liked most about it. | 3 sources | 2024-05 | - |
-| 32 | Écrivez un message à vos amis pour leur raconter votre visite à un salon du livre : les conférences suivies, les stands découverts et vos échanges avec des auteurs. | Write a message to friends about attending a book fair, describing talks, exhibits and meeting writers. | 3 sources | 2024-05 | - |
+| 30 | Vous avez assisté à une fête de famille. Vous envoyez un message à vos amis pour leur raconter cette soirée et leur dire ce qui vous a le plus plu. | The candidate must write a message to friends describing a family party and what they enjoyed most. | 4 sources | 2025-01 | - |
+| 31 | Votre école de musique est à la recherche d'une salle pour organiser la fête de fin d'année. Envoyez un message à la direction pour l'informer que vous avez déniché une salle parfaite pour l'occasion. | Write a message to your music school's management announcing you found an ideal venue for the year-end party. | 3 sources | 2023-04 | - |
+| 32 | Vous avez passé des vacances dans une magnifique région de votre pays. Écrivez un message à vos amis pour leur raconter ce séjour et leur dire ce qui vous a le plus plu. | Write a message to friends recounting a vacation and what you liked most about it. | 3 sources | 2024-05 | - |
+| 33 | Écrivez un message à vos amis pour leur raconter votre visite à un salon du livre : les conférences suivies, les stands découverts et vos échanges avec des auteurs. | Write a message to friends about attending a book fair, describing talks, exhibits and meeting writers. | 3 sources | 2024-05 | - |
 
 ## Economy
 
@@ -118,6 +119,8 @@ A message to one or more people, 60 to 120 words.
 | 10 | Répondez par message à votre ami pour lui recommander une salle de sport de votre quartier. | Reply to your friend recommending a gym in your neighborhood. | 4 sources | 2023-05 | - |
 | 11 | Répondez à votre ami(e) en décrivant la sortie prévue (horaires, moyen de transport, activités, etc.). | The candidate must reply to a friend describing an outing's details. | 4 sources | 2023-11 | - |
 | 12 | Écrivez un message à vos amis pour leur proposer de venir passer un week-end sportif chez vous. | The candidate must write a message inviting friends for a sporty weekend. | 4 sources | 2024-11 | - |
+| 13 | Cédric, que vous avez invité à votre mariage, ne connaît pas le Château de Chombony, lieu de la cérémonie. Décrivez-lui cet endroit, précisez sa localisation ainsi que les moyens de transport pour s'y rendre. | Write to a friend describing a wedding venue's location and how to get there. | 4 sources | 2025-01 | - |
+| 14 | Vous devez passer une journée dans un parc d'attractions avec un ami. Rédigez-lui un message pour organiser cette sortie en précisant les horaires, le moyen de transport, l'achat des billets et les activités prévues (entre 60 et 120 mots). | The candidate must write a message to a friend organizing a day at an amusement park, including schedule, transport, tickets and activities. | 3 sources | 2022-11 | - |
 
 ## Immigration
 
@@ -143,7 +146,9 @@ A message to one or more people, 60 to 120 words.
 | 10 | Vos amis souhaitent venir passer deux semaines de vacances chez vous. Écrivez-leur un message pour leur suggérer des endroits à découvrir. | Write a message to friends suggesting places to visit during their two-week stay at your place. | 4 sources | 2023-11 | - |
 | 11 | « Je suis à la recherche d'un coin sympa pour manger dehors ce week-end. Tu aurais une idée à me suggérer ?Bises,Barbara. » | Reply to Barbara suggesting a place to have an outdoor meal this weekend. | 4 sources | 2023-11 | - |
 | 12 | Un ami vous invite à partir camper avec lui. Rédigez-lui un message pour lui suggérer un lieu de camping, en précisant l'endroit, la date choisie et les activités que vous envisagez de faire ensemble. | The candidate must write a message to a friend suggesting a camping spot, with location, date and planned activities. | 4 sources | 2024-07 | - |
-| 13 | Vous préparez la fête de votre anniversaire. Rédigez un message destiné à vos amis pour les convier, en précisant le déroulement de la soirée et en sollicitant leur aide pour l'organisation. | Write a message inviting friends to your birthday party, explaining the program and asking for help preparing it. | 4 sources | 2026-01 | - |
+| 13 | Votre amie Léa vous propose un pique-nique et vous demande si vous connaissez un endroit sympa pour l'organiser. Répondez favorablement à son invitation en suggérant un lieu et en décrivant les activités possibles sur place. | Reply to a friend's picnic invitation, accepting and suggesting a place with possible activities. | 4 sources | 2024-10 | - |
+| 14 | Vous préparez la fête de votre anniversaire. Rédigez un message destiné à vos amis pour les convier, en précisant le déroulement de la soirée et en sollicitant leur aide pour l'organisation. | Write a message inviting friends to your birthday party, explaining the program and asking for help preparing it. | 4 sources | 2026-01 | - |
+| 15 | Rédigez un message à vos amis afin de les inviter à explorer avec vous une ville touristique. | The candidate must write a message inviting friends to discover a touristic city. | 3 sources | 2023-11 | - |
 
 ## Technology
 

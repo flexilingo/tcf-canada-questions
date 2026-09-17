@@ -4,18 +4,18 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-38 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+43 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (8)
+- [Culture](#culture) (9)
 - [Economy](#economy) (4)
-- [Education](#education) (2)
+- [Education](#education) (3)
 - [Environment](#environment) (2)
 - [Health](#health) (4)
-- [Miscellaneous](#miscellaneous) (11)
+- [Miscellaneous](#miscellaneous) (12)
 - [Technology](#technology) (4)
-- [Work](#work) (3)
+- [Work](#work) (5)
 
 ## Culture
 
@@ -29,6 +29,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 6 | Un document sur un service en ligne de réservation de logements touristiques. | A document about an online booking service for tourist accommodation. | 1 source | 2026-09 | - |
 | 7 | Un documentaire consacré à une montagne. | A documentary about a mountain. | 1 source | 2026-09 | - |
 | 8 | Un débat portant sur la qualité d'un documentaire. | A debate about the quality of a documentary. | 1 source | 2026-09 | - |
+| 9 | Un exposé sur l'histoire du vocabulaire de la langue française. | A talk on the history of French vocabulary. | 1 source | 2026-09 | - |
 
 ## Economy
 
@@ -45,6 +46,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | --- | --- | --- | --- | --- | --- |
 | 1 | Un dialogue portant sur l'inscription à un cours à l'université. | A conversation about registering for a university course. | 1 source | 2026-09 | - |
 | 2 | Un document expliquant les démarches administratives à effectuer à l'université. | A document about university administrative procedures. | 1 source | 2026-09 | - |
+| 3 | Un exposé sur le système judiciaire et les droits des citoyens. | A presentation on the legal system and citizens' rights. | 1 source | 2026-09 | - |
 
 ## Environment
 
@@ -77,6 +79,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 9 | Un document audio relatant un accident ayant causé une blessure. | An audio document about an accident causing an injury. | 1 source | 2026-09 | - |
 | 10 | Un document audio relatant une fraude dans les transports ferroviaires. | An audio document about railway fraud. | 1 source | 2026-09 | - |
 | 11 | Un débat sur la rivalité et la pression sociale dans la société actuelle. | A discussion about competition and social pressure in society. | 1 source | 2026-09 | - |
+| 12 | Un débat sur les qualités nutritionnelles d'un aliment. | A debate about the nutritional value of a food. | 1 source | 2026-09 | - |
 
 ## Technology
 
@@ -94,6 +97,8 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 1 | Un document audio traitant de la procrastination et de la gestion du temps. | An audio document about procrastination and time management. | 1 source | 2026-09 | - |
 | 2 | Un document proposant des stratégies pour être plus productif. | A document about strategies to improve productivity. | 1 source | 2026-09 | - |
 | 3 | Un document présentant des méthodes pour chercher un emploi. | A document about job-hunting methods. | 1 source | 2026-09 | - |
+| 4 | Un entretien d'embauche entre un recruteur et un candidat. | A job interview. | 1 source | 2026-09 | - |
+| 5 | Un entretien évaluant les compétences d'une candidate. | An interview assessing a candidate's qualifications. | 1 source | 2026-09 | - |
 
 ---
 
