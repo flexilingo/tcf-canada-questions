@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-40 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+41 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -16,7 +16,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (4)
 - [Technology](#technology) (2)
-- [Work](#work) (2)
+- [Work](#work) (3)
 
 ## Culture
 
@@ -102,6 +102,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | --- | --- | --- | --- | --- | --- |
 | 1 | Un article décrivant la stratégie commerciale adoptée par une entreprise. | An article about a company's business strategy. | 2 sources | 2026-09 | - |
 | 2 | Une annonce présentant un événement destiné au recrutement de candidats. | An ad about a job recruitment event. | 2 sources | 2026-09 | - |
+| 3 | Deux articles exposent des arguments favorables et défavorables à la pratique de la sieste au travail. | Two articles debating the pros and cons of napping at work. | 1 source | 2026-09 | - |
 
 ---
 
