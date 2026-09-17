@@ -3,7 +3,7 @@
 ## Report a question
 
 The most useful contribution is a report of what you got in the exam.
-[Open a report](https://github.com/flexilingo/tcf-canada-questions/issues/new?template=report-a-question.yml) and give the exam month, the
+[Open a report](https://github.com/flexilingo/tcf-questions/issues/new?template=report-a-question.yml) and give the exam month, the
 skill, the task and the question or topic in your own words (French or English).
 
 Please do not include names, emails or any other personal information, and do not paste
