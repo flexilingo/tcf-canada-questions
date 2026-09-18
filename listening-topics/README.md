@@ -4,11 +4,11 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-43 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+44 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (9)
+- [Culture](#culture) (10)
 - [Economy](#economy) (4)
 - [Education](#education) (3)
 - [Environment](#environment) (2)
@@ -30,6 +30,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 7 | Un documentaire consacré à une montagne. | A documentary about a mountain. | 1 source | 2026-09 | - |
 | 8 | Un débat portant sur la qualité d'un documentaire. | A debate about the quality of a documentary. | 1 source | 2026-09 | - |
 | 9 | Un exposé sur l'histoire du vocabulaire de la langue française. | A talk on the history of French vocabulary. | 1 source | 2026-09 | - |
+| 10 | Un portrait consacré à un artisan boulanger. | A profile of an artisan baker. | 1 source | 2026-09 | - |
 
 ## Economy
 
@@ -102,6 +103,6 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 
 ---
 
-Candidate experiences, reworded by FlexiLingo — not official exam material, and not affiliated with France Éducation international.
+**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
 
 Content licensed [CC BY 4.0](../LICENSE) - credit [FlexiLingo](https://www.flexilingo.com) with a link when you reuse it.

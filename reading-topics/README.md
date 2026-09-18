@@ -4,7 +4,7 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-46 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+47 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
@@ -15,7 +15,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 - [Health](#health) (8)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (4)
-- [Technology](#technology) (2)
+- [Technology](#technology) (3)
 - [Work](#work) (5)
 
 ## Culture
@@ -96,8 +96,9 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 
 | # | Topic (French) | In English | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Un article retraçant l'évolution des téléphones portables. | An article about the evolution of mobile phones. | 1 source | 2026-09 | - |
-| 2 | Un article sur l'influence de la technologie sur les relations amoureuses. | An article about technology's impact on romantic relationships. | 1 source | 2026-09 | - |
+| 1 | Deux textes présentent des points de vue opposés concernant les jeux vidéo. | Two texts debating opposing views about video games. | 1 source | 2026-09 | - |
+| 2 | Un article retraçant l'évolution des téléphones portables. | An article about the evolution of mobile phones. | 1 source | 2026-09 | - |
+| 3 | Un article sur l'influence de la technologie sur les relations amoureuses. | An article about technology's impact on romantic relationships. | 1 source | 2026-09 | - |
 
 ## Work
 
@@ -111,6 +112,6 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 
 ---
 
-Candidate experiences, reworded by FlexiLingo — not official exam material, and not affiliated with France Éducation international.
+**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
 
 Content licensed [CC BY 4.0](../LICENSE) - credit [FlexiLingo](https://www.flexilingo.com) with a link when you reuse it.

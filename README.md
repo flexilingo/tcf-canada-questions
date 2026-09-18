@@ -1,8 +1,6 @@
-# TCF questions
+# TCF Canada questions
 
-**What candidates say they got.** Writing and speaking scenarios and reading and listening topics that TCF candidates shared publicly after their exam, reworded by [FlexiLingo](https://www.flexilingo.com).
-
-The reports come from TCF Canada candidates, and the task types are the same in TCF Québec and TCF tout public, so they work for those too.
+Writing and speaking scenarios and reading and listening topics for the **TCF Canada**, the French test used for Canadian immigration. **Compiled from candidate reports**: every entry is something candidates said they got, collected from public posts and reworded by [FlexiLingo](https://www.flexilingo.com).
 
 Browse and practise them with full analyses at [flexilingo.com](https://www.flexilingo.com/en/tcf-canada/questions).
 
@@ -10,14 +8,14 @@ Browse and practise them with full analyses at [flexilingo.com](https://www.flex
 
 | Section | Entries |
 | --- | --- |
-| [Writing Task 1](writing/task-1/README.md) | 110 |
-| [Writing Task 2](writing/task-2/README.md) | 92 |
-| [Writing Task 3](writing/task-3/README.md) | 193 |
-| [Speaking Task 2](speaking/task-2/README.md) | 266 |
-| [Speaking Task 3](speaking/task-3/README.md) | 262 |
-| [Reading topics](reading-topics/README.md) | 46 |
-| [Listening topics](listening-topics/README.md) | 43 |
-| **Total** | **1012** |
+| [Writing Task 1](writing/task-1/README.md) | 112 |
+| [Writing Task 2](writing/task-2/README.md) | 94 |
+| [Writing Task 3](writing/task-3/README.md) | 195 |
+| [Speaking Task 2](speaking/task-2/README.md) | 267 |
+| [Speaking Task 3](speaking/task-3/README.md) | 263 |
+| [Reading topics](reading-topics/README.md) | 47 |
+| [Listening topics](listening-topics/README.md) | 44 |
+| **Total** | **1022** |
 
 ## How to browse
 
@@ -28,11 +26,11 @@ Browse and practise them with full analyses at [flexilingo.com](https://www.flex
 
 ## Report a question
 
-Sat the exam recently? Tell us what you got: [open a report](https://github.com/flexilingo/tcf-questions/issues/new?template=report-a-question.yml). See [CONTRIBUTING.md](CONTRIBUTING.md) for what happens next.
+Sat the exam recently? Tell us what you got: [open a report](https://github.com/flexilingo/tcf-canada-questions/issues/new?template=report-a-question.yml). See [CONTRIBUTING.md](CONTRIBUTING.md) for what happens next.
 
-## About these questions
+## Disclaimer
 
-Every entry is a candidate report, rewritten in our own words, with how many independent sources mentioned it and the month it first appeared. Nobody can promise what comes up in your session. Candidate experiences, reworded by FlexiLingo — not official exam material, and not affiliated with France Éducation international.
+**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
 
 ## License
 

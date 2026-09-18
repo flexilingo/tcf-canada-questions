@@ -4,15 +4,15 @@
 
 A message to one or more people, 60 to 120 words.
 
-110 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+112 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (33)
 - [Economy](#economy) (6)
 - [Education](#education) (14)
-- [Family](#family) (12)
-- [Health](#health) (14)
+- [Family](#family) (13)
+- [Health](#health) (15)
 - [Immigration](#immigration) (3)
 - [Miscellaneous](#miscellaneous) (15)
 - [Technology](#technology) (2)
@@ -93,15 +93,16 @@ A message to one or more people, 60 to 120 words.
 | 1 | Rédigez un message pour convier votre ami(e) à venir passer ses vacances dans votre ville, en mentionnant les sites et lieux à découvrir. | Write a message inviting a friend to spend their vacation in your city, mentioning places to visit. | 7 sources | 2023-06 | - |
 | 2 | Vous venez d'emménager dans une nouvelle ville. Écrivez un message à un(e) ami(e) pour lui décrire votre nouveau cadre de vie (quartier, voisins, commerces, etc.). | Write a message to a friend describing your new neighborhood, neighbors and shops after moving. | 7 sources | 2023-06 | - |
 | 3 | Un ami / une amie souhaite découvrir la région où vous vivez. Écrivez-lui un message pour lui suggérer des lieux à visiter. | The candidate must write a message to a friend suggesting places to visit in their region. | 7 sources | 2023-10 | - |
-| 4 | Vous souhaitez refaire la décoration de votre logement (mobilier, peinture, objets, etc.). Vous écrivez un message à un(e) ami(e) : présentez votre projet et demandez-lui son aide. | The candidate must write a message to a friend presenting a home redecoration project and asking for help. | 7 sources | 2024-08 | - |
-| 5 | La médiathèque de votre ville organise une rencontre avec un auteur. Écrivez un message à un(e) ami(e) pour lui parler de cet événement et l'inviter à s'y rendre avec vous. | The candidate must write a message to a friend presenting a library author event and inviting them to it. | 6 sources | 2022-10 | - |
-| 6 | Écrivez un message à votre ami(e) pour lui présenter le programme de vos prochaines vacances (lieu, dates, activités, etc.). | The candidate must write a message to a friend describing their upcoming vacation plans. | 6 sources | 2023-02 | - |
-| 7 | Rédigez un message à un(e) ami(e) pour présenter votre plan de déménagement vers votre nouveau logement et lui demander un coup de main (date, lieu, déroulement). | Write to a friend outlining your moving plan and asking for their help. | 6 sources | 2024-01 | - |
-| 8 | L'anniversaire d'un(e) ami(e) commun(e) approche. Rédigez un message destiné à vos amis pour proposer de lui acheter ensemble un cadeau. | Write a message to your friends proposing to buy a joint birthday gift for a mutual friend. | 6 sources | 2024-07 | - |
-| 9 | Écrivez un message à votre ami(e) pour l'inviter à passer le prochain week-end avec vous, en précisant les activités prévues, le lieu, etc. | Write a message inviting a friend to spend next weekend with you, giving activities and place. | 5 sources | 2023-06 | - |
-| 10 | Rédigez un message à votre ami(e) pour lui proposer de venir avec vous à un festival de musique. | The candidate must write a message inviting a friend to a music festival. | 4 sources | 2022-10 | - |
-| 11 | La bibliothèque de votre quartier organise une rencontre avec un auteur / une autrice. Vous aimeriez y assister avec un(e) ami(e). Rédigez-lui un message pour présenter l'événement et l'inviter à vous accompagner. | Write a message to a friend presenting a library event with an author and inviting them along. | 4 sources | 2024-01 | - |
-| 12 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
+| 4 | Vous avez passé un week-end à la campagne. Écrivez un message à un ami ou une amie pour lui raconter ce que vous avez fait pendant ce séjour. | Write a message to a friend recounting a weekend spent in the countryside. | 7 sources | 2024-03 | - |
+| 5 | Vous souhaitez refaire la décoration de votre logement (mobilier, peinture, objets, etc.). Vous écrivez un message à un(e) ami(e) : présentez votre projet et demandez-lui son aide. | The candidate must write a message to a friend presenting a home redecoration project and asking for help. | 7 sources | 2024-08 | - |
+| 6 | La médiathèque de votre ville organise une rencontre avec un auteur. Écrivez un message à un(e) ami(e) pour lui parler de cet événement et l'inviter à s'y rendre avec vous. | The candidate must write a message to a friend presenting a library author event and inviting them to it. | 6 sources | 2022-10 | - |
+| 7 | Écrivez un message à votre ami(e) pour lui présenter le programme de vos prochaines vacances (lieu, dates, activités, etc.). | The candidate must write a message to a friend describing their upcoming vacation plans. | 6 sources | 2023-02 | - |
+| 8 | Rédigez un message à un(e) ami(e) pour présenter votre plan de déménagement vers votre nouveau logement et lui demander un coup de main (date, lieu, déroulement). | Write to a friend outlining your moving plan and asking for their help. | 6 sources | 2024-01 | - |
+| 9 | L'anniversaire d'un(e) ami(e) commun(e) approche. Rédigez un message destiné à vos amis pour proposer de lui acheter ensemble un cadeau. | Write a message to your friends proposing to buy a joint birthday gift for a mutual friend. | 6 sources | 2024-07 | - |
+| 10 | Écrivez un message à votre ami(e) pour l'inviter à passer le prochain week-end avec vous, en précisant les activités prévues, le lieu, etc. | Write a message inviting a friend to spend next weekend with you, giving activities and place. | 5 sources | 2023-06 | - |
+| 11 | Rédigez un message à votre ami(e) pour lui proposer de venir avec vous à un festival de musique. | The candidate must write a message inviting a friend to a music festival. | 4 sources | 2022-10 | - |
+| 12 | La bibliothèque de votre quartier organise une rencontre avec un auteur / une autrice. Vous aimeriez y assister avec un(e) ami(e). Rédigez-lui un message pour présenter l'événement et l'inviter à vous accompagner. | Write a message to a friend presenting a library event with an author and inviting them along. | 4 sources | 2024-01 | - |
+| 13 | Vous venez de déménager dans une autre ville. Écrivez à un(e) ami(e) pour l'inviter à venir passer ses vacances chez vous. | The candidate must write inviting a friend to spend vacation at their new home. | 4 sources | 2024-11 | - |
 
 ## Health
 
@@ -110,17 +111,18 @@ A message to one or more people, 60 to 120 words.
 | 1 | Un(e) ami(e) et vous aimeriez pratiquer une activité sportive ensemble. Écrivez-lui un message afin de lui présenter votre idée : quelles activités, à quel endroit, avec quel matériel, etc. | Write a message to a friend proposing a sports activity, giving details like type, location, and equipment. | 7 sources | 2022-08 | [Read](https://www.flexilingo.com/en/tcf-canada/sujet/tcf-ee-t1-message-ami-proposer-activite-sportive) |
 | 2 | Votre ami souhaite commencer le sport. Envoyez-lui un message pour lui recommander une salle de sport de votre quartier (emplacement, tarifs, activités proposées, etc.). | Write a message recommending a gym in your neighborhood to a friend. | 7 sources | 2023-01 | - |
 | 3 | Vous pratiquez un sport dans un club et vous venez de gagner une compétition. Rédigez un courriel à vos amis pour raconter cet événement sportif et leur annoncer votre victoire. | Write an email to friends recounting a sports competition you just won. | 7 sources | 2023-01 | - |
-| 4 | Vous avez convié votre ami Éric à votre mariage, qui aura lieu au château de Chambony, mais il vous répond qu'il ne connaît pas ce lieu. Décrivez-lui l'endroit, sa situation géographique, les moyens de transport pour s'y rendre, etc. | Describe to a friend the location and how to get to the wedding venue castle. | 7 sources | 2023-06 | - |
-| 5 | Vous prévoyez de partir en week-end avec des amis le mois prochain. Écrivez-leur un message pour présenter votre projet (destination, moyen de transport, activités prévues, etc.). | Write a message to friends describing a planned weekend trip: destination, transport, activities. | 7 sources | 2023-06 | - |
-| 6 | « Salut, on m'a dit que tu vas dans une salle de sport superbe. Tu peux m'en dire plus ? » Rédigez un message pour répondre à votre ami à ce sujet. | The candidate must write a reply to a friend giving details about a gym mentioned by the friend. | 7 sources | 2023-10 | - |
-| 7 | Un événement sportif va bientôt se dérouler dans votre ville. Écrivez un message à vos amis pour les inviter à y participer (date, lieu, modalités d'inscription, etc.). | The candidate must write a message inviting friends to an upcoming sports event in their city. | 6 sources | 2023-06 | - |
-| 8 | Écrivez un message à un ami pour lui suggérer de pratiquer une activité sportive ensemble. | The candidate must write a message to a friend suggesting they do sport together. | 5 sources | 2020-02 | - |
-| 9 | Rédigez un courriel en réponse à votre ami(e) qui prévoit passer le week-end dans votre ville. Vous devez y présenter les différents moyens de transport disponibles. | The candidate must write an email to a friend describing transportation options in their city. | 5 sources | 2023-06 | - |
-| 10 | Répondez par message à votre ami pour lui recommander une salle de sport de votre quartier. | Reply to your friend recommending a gym in your neighborhood. | 4 sources | 2023-05 | - |
-| 11 | Répondez à votre ami(e) en décrivant la sortie prévue (horaires, moyen de transport, activités, etc.). | The candidate must reply to a friend describing an outing's details. | 4 sources | 2023-11 | - |
-| 12 | Écrivez un message à vos amis pour leur proposer de venir passer un week-end sportif chez vous. | The candidate must write a message inviting friends for a sporty weekend. | 4 sources | 2024-11 | - |
-| 13 | Cédric, que vous avez invité à votre mariage, ne connaît pas le Château de Chombony, lieu de la cérémonie. Décrivez-lui cet endroit, précisez sa localisation ainsi que les moyens de transport pour s'y rendre. | Write to a friend describing a wedding venue's location and how to get there. | 4 sources | 2025-01 | - |
-| 14 | Vous devez passer une journée dans un parc d'attractions avec un ami. Rédigez-lui un message pour organiser cette sortie en précisant les horaires, le moyen de transport, l'achat des billets et les activités prévues (entre 60 et 120 mots). | The candidate must write a message to a friend organizing a day at an amusement park, including schedule, transport, tickets and activities. | 3 sources | 2022-11 | - |
+| 4 | Vous voulez passer un week-end sportif entre amis et leur écrivez pour proposer cette sortie, en précisant la date, le lieu et le programme des activités. | Write a letter proposing a sporty weekend with friends, giving date, place and schedule. | 7 sources | 2023-04 | - |
+| 5 | Vous avez convié votre ami Éric à votre mariage, qui aura lieu au château de Chambony, mais il vous répond qu'il ne connaît pas ce lieu. Décrivez-lui l'endroit, sa situation géographique, les moyens de transport pour s'y rendre, etc. | Describe to a friend the location and how to get to the wedding venue castle. | 7 sources | 2023-06 | - |
+| 6 | Vous prévoyez de partir en week-end avec des amis le mois prochain. Écrivez-leur un message pour présenter votre projet (destination, moyen de transport, activités prévues, etc.). | Write a message to friends describing a planned weekend trip: destination, transport, activities. | 7 sources | 2023-06 | - |
+| 7 | « Salut, on m'a dit que tu vas dans une salle de sport superbe. Tu peux m'en dire plus ? » Rédigez un message pour répondre à votre ami à ce sujet. | The candidate must write a reply to a friend giving details about a gym mentioned by the friend. | 7 sources | 2023-10 | - |
+| 8 | Un événement sportif va bientôt se dérouler dans votre ville. Écrivez un message à vos amis pour les inviter à y participer (date, lieu, modalités d'inscription, etc.). | The candidate must write a message inviting friends to an upcoming sports event in their city. | 6 sources | 2023-06 | - |
+| 9 | Écrivez un message à un ami pour lui suggérer de pratiquer une activité sportive ensemble. | The candidate must write a message to a friend suggesting they do sport together. | 5 sources | 2020-02 | - |
+| 10 | Rédigez un courriel en réponse à votre ami(e) qui prévoit passer le week-end dans votre ville. Vous devez y présenter les différents moyens de transport disponibles. | The candidate must write an email to a friend describing transportation options in their city. | 5 sources | 2023-06 | - |
+| 11 | Répondez par message à votre ami pour lui recommander une salle de sport de votre quartier. | Reply to your friend recommending a gym in your neighborhood. | 4 sources | 2023-05 | - |
+| 12 | Répondez à votre ami(e) en décrivant la sortie prévue (horaires, moyen de transport, activités, etc.). | The candidate must reply to a friend describing an outing's details. | 4 sources | 2023-11 | - |
+| 13 | Écrivez un message à vos amis pour leur proposer de venir passer un week-end sportif chez vous. | The candidate must write a message inviting friends for a sporty weekend. | 4 sources | 2024-11 | - |
+| 14 | Cédric, que vous avez invité à votre mariage, ne connaît pas le Château de Chombony, lieu de la cérémonie. Décrivez-lui cet endroit, précisez sa localisation ainsi que les moyens de transport pour s'y rendre. | Write to a friend describing a wedding venue's location and how to get there. | 4 sources | 2025-01 | - |
+| 15 | Vous devez passer une journée dans un parc d'attractions avec un ami. Rédigez-lui un message pour organiser cette sortie en précisant les horaires, le moyen de transport, l'achat des billets et les activités prévues (entre 60 et 120 mots). | The candidate must write a message to a friend organizing a day at an amusement park, including schedule, transport, tickets and activities. | 3 sources | 2022-11 | - |
 
 ## Immigration
 
@@ -175,6 +177,6 @@ A message to one or more people, 60 to 120 words.
 
 ---
 
-Candidate experiences, reworded by FlexiLingo — not official exam material, and not affiliated with France Éducation international.
+**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
 
 Content licensed [CC BY 4.0](../../LICENSE) - credit [FlexiLingo](https://www.flexilingo.com) with a link when you reuse it.
