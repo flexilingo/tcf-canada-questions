@@ -4,11 +4,11 @@
 
 Compare two points of view on a social issue, then give your own, 120 to 180 words.
 
-195 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+197 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
-- [Culture](#culture) (29)
+- [Culture](#culture) (30)
 - [Economy](#economy) (26)
 - [Education](#education) (23)
 - [Environment](#environment) (16)
@@ -16,7 +16,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 - [Health](#health) (20)
 - [Immigration](#immigration) (1)
 - [Miscellaneous](#miscellaneous) (5)
-- [Technology](#technology) (12)
+- [Technology](#technology) (13)
 - [Work](#work) (40)
 
 ## Culture
@@ -52,6 +52,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 27 | La télévision constitue aujourd'hui un moyen de communication et de divertissement omniprésent dans nos sociétés. Son influence est visible tant sur les individus que sur la culture en général. Elle sert à diffuser des informations, à proposer des programmes de loisirs variés et à transmettre la culture. Installée dans la majorité des foyers, elle demeure une source d'information et de divertissement accessible à tous. Grâce à son large public, la télévision joue un rôle clé dans la diffusion des savoirs et la sensibilisation aux enjeux sociaux. | The candidate must comment on a text about television's role in society. | 2 sources | 2024-02 | - |
 | 28 | employés pendant la pause (prévention du harcèlement), égalité de traitement entre salariés, mise en place d'une charte encadrant les relations entre salariés, etc. | Fragment listing workplace policy points (harassment prevention, equal treatment, staff charter). | 2 sources | 2024-07 | - |
 | 29 | Cependant, partager son logement avec d'autres peut aussi provoquer des tensions liées à des habitudes de vie différentes et à la répartition des tâches. Il est donc important de fixer des règles claires et de bien communiquer afin d'éviter les conflits. | Continue/compare a text about how shared housing can create tension and the need for rules and communication. | 2 sources | 2025-01 | - |
+| 30 | Certains autodidactes se sont fait connaître grâce aux réseaux sociaux, où ils diffusent leurs recettes et astuces. Plusieurs ont même publié des ouvrages de cuisine et sont devenus des modèles pour les passionnés voulant progresser. | Argue that self-taught cooks can become successful references through social media without formal training. | 2 sources | 2025-01 | - |
 
 ## Economy
 
@@ -218,6 +219,7 @@ Compare two points of view on a social issue, then give your own, 120 to 180 wor
 | 10 | Les objets connectés facilitent grandement la vie quotidienne. Ce sont des appareils pilotables à distance via un smartphone ou Internet, comme le chauffage ou l'ouverture des portes. Les montres et bracelets connectés permettent aussi de suivre ses activités physiques : un programme peut compter vos pas afin de vous inciter à bouger davantage. Ces objets sont particulièrement précieux dans le domaine de la santé, notamment pour rappeler des rendez-vous médicaux ou la prise de traitements. | The candidate must comment on a text about how connected devices make daily life easier. | 2 sources | 2024-01 | - |
 | 11 | Francine, 35 ans : La publicité envahit notre quotidien : presse, télévision, radio, téléphones, Internet… Sur certaines chaînes, elle interrompt sans cesse les programmes, ce qui finit par irriter. Recevoir chaque année une telle quantité de publicités papier n'est pas non plus respectueux de l'environnement. J'estime qu'une loi devrait limiter ces publicités, aussi bien à la télévision que dans nos boîtes aux lettres. Une publicité plus discrète serait sans doute mieux tolérée. | Read Francine's opinion calling for a law to limit advertising, compare it with the opposing viewpoint, and write a 120-180 word text discussing both. | 2 sources | 2024-08 | - |
 | 12 | La vie en colocation. Certains défendent la colocation en rappelant que tout le monde n'aime pas manger seul devant la télévision. Partager un logement crée de vrais moments de partage, pendant les repas ou en jouant ensemble à des jeux de société. De plus, les corvées ménagères comme la vaisselle se répartissent entre plusieurs personnes. Cohabiter permet aussi de s'ouvrir à d'autres modes de vie, de nouer des relations fortes, de vivre des expériences communes et de s'entraider au quotidien. D'après etudiant.aujourdhui.fr D'autres avancent au contraire que la colocation peut peser lorsqu'on aspire, certains soirs, à la tranquillité et à la solitude. Il faut aussi composer avec des invités qui ne sont pas toujours les nôtres, veiller à ce que chacun respecte son tour pour le ménage, plutôt que d'assumer seul toutes les tâches (ou de laisser l'autre s'en charger). En somme, la diplomatie s'impose sur de nombreux aspects — à moins de partager son logement avec le colocataire idéal. D'après nrj.fr | Summarize and compare two opposing views on the pros and cons of living with roommates, based on the two given texts. | 2 sources | 2024-10 | - |
+| 13 | Cependant, un temps d'écran trop important peut nuire aux enfants. Passer de longues heures devant la télévision réduit les échanges sociaux, diminue le goût de la lecture et favorise un mode de vie sédentaire. Il convient donc d'en limiter l'usage. | Present the downside that excessive TV watching harms children's social life, reading habits, and physical activity. | 2 sources | 2025-01 | - |
 
 ## Work
 

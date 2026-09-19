@@ -4,13 +4,13 @@
 
 Subjects of the recordings candidates reported in the listening test (39 multiple-choice questions, 35 minutes).
 
-44 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+45 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (10)
 - [Economy](#economy) (4)
-- [Education](#education) (3)
+- [Education](#education) (4)
 - [Environment](#environment) (2)
 - [Health](#health) (4)
 - [Miscellaneous](#miscellaneous) (12)
@@ -48,6 +48,7 @@ Subjects of the recordings candidates reported in the listening test (39 multipl
 | 1 | Un dialogue portant sur l'inscription à un cours à l'université. | A conversation about registering for a university course. | 1 source | 2026-09 | - |
 | 2 | Un document expliquant les démarches administratives à effectuer à l'université. | A document about university administrative procedures. | 1 source | 2026-09 | - |
 | 3 | Un exposé sur le système judiciaire et les droits des citoyens. | A presentation on the legal system and citizens' rights. | 1 source | 2026-09 | - |
+| 4 | Un programme d'initiation à la voile ou à la navigation. | An introductory program on sailing or navigation. | 1 source | 2026-09 | - |
 
 ## Environment
 

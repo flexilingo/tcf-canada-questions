@@ -4,13 +4,13 @@
 
 Subjects of the texts candidates reported in the reading test (39 multiple-choice questions, 60 minutes).
 
-47 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+48 topics, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (11)
 - [Economy](#economy) (9)
-- [Education](#education) (2)
+- [Education](#education) (3)
 - [Environment](#environment) (4)
 - [Health](#health) (8)
 - [Immigration](#immigration) (1)
@@ -54,6 +54,7 @@ Subjects of the texts candidates reported in the reading test (39 multiple-choic
 | --- | --- | --- | --- | --- | --- |
 | 1 | Un article de presse traitant de la réforme du système universitaire en France. | An article about a university reform in France. | 1 source | 2026-09 | - |
 | 2 | Un article donnant des conseils pour s'inscrire à l'université. | An article giving advice on university enrollment. | 1 source | 2026-09 | - |
+| 3 | Un article rapporte différentes opinions sur la présence de distributeurs automatiques dans les écoles. | An article about opinions on vending machines in schools. | 1 source | 2026-09 | - |
 
 ## Environment
 

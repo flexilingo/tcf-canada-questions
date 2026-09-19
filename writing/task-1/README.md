@@ -4,13 +4,13 @@
 
 A message to one or more people, 60 to 120 words.
 
-112 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
+114 questions, compiled from candidate reports and reworded by FlexiLingo. Entries with an analysis first, then most reported, within each theme.
 
 ## Themes
 
 - [Culture](#culture) (33)
-- [Economy](#economy) (6)
-- [Education](#education) (14)
+- [Economy](#economy) (7)
+- [Education](#education) (15)
 - [Family](#family) (13)
 - [Health](#health) (15)
 - [Immigration](#immigration) (3)
@@ -60,12 +60,13 @@ A message to one or more people, 60 to 120 words.
 
 | # | Prompt (French) | What you must do (English) | Reported by | First seen | Analysis |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Vous louez un appartement trop spacieux pour vous seul(e). Rédigez une annonce à publier dans un journal afin de trouver un colocataire, en précisant la surface, le profil recherché, le loyer, etc. | The candidate must write a newspaper ad looking for a roommate, including size, expected profile, and rent. | 6 sources | 2023-09 | - |
-| 2 | Vous venez de dénicher un hôtel pour les vacances que vous prévoyez avec vos amis. Écrivez-leur un message pour leur présenter son emplacement, son tarif et ses équipements, puis proposez-leur de valider la réservation. | Write a message to friends describing a hotel's location, price and facilities, and suggest confirming the booking. | 6 sources | 2024-05 | - |
-| 3 | Je recherche une bicyclette d’occasion en bon état, à petit prix. Écrivez-moi à : mathieu@gmail.com — Vous possédez un vélo à vendre. Rédigez un courriel décrivant votre vélo et proposant un tarif. Fixez-moi également un rendez-vous pour l’essayer. | The candidate must write an email describing a bike for sale, propose a price, and arrange a meeting to try it. | 6 sources | 2024-07 | - |
-| 4 | Vous souhaitez vendre votre vélo. Écrivez un courriel à cette adresse en décrivant ses caractéristiques. | Write an email to sell your bike, describing its features. | 4 sources | 2023-05 | - |
-| 5 | Vous voulez vendre votre vélo. Rédigez un courriel présentant le vélo et son prix, puis proposez un rendez-vous pour que l’acheteur puisse l’essayer. | The candidate must write an email selling a bike, including price and a meeting to test it. | 4 sources | 2023-11 | - |
-| 6 | « Ateliers gratuits, spectacles, activités diverses. On vous attend vendredi à partir de 9h ! » | Read a flyer announcing a free event with workshops, concerts and activities starting Friday at 9am. | 4 sources | 2024-08 | - |
+| 1 | Vous avez reçu un article commandé en ligne, mais il est arrivé endommagé. Vous adressez un courriel au service client pour expliquer le problème, décrire les dégâts et indiquer ce que vous attendez comme réponse. | Write an email to customer service reporting a damaged online order and stating the desired resolution. | 7 sources | 2024-05 | - |
+| 2 | Vous louez un appartement trop spacieux pour vous seul(e). Rédigez une annonce à publier dans un journal afin de trouver un colocataire, en précisant la surface, le profil recherché, le loyer, etc. | The candidate must write a newspaper ad looking for a roommate, including size, expected profile, and rent. | 6 sources | 2023-09 | - |
+| 3 | Vous venez de dénicher un hôtel pour les vacances que vous prévoyez avec vos amis. Écrivez-leur un message pour leur présenter son emplacement, son tarif et ses équipements, puis proposez-leur de valider la réservation. | Write a message to friends describing a hotel's location, price and facilities, and suggest confirming the booking. | 6 sources | 2024-05 | - |
+| 4 | Je recherche une bicyclette d’occasion en bon état, à petit prix. Écrivez-moi à : mathieu@gmail.com — Vous possédez un vélo à vendre. Rédigez un courriel décrivant votre vélo et proposant un tarif. Fixez-moi également un rendez-vous pour l’essayer. | The candidate must write an email describing a bike for sale, propose a price, and arrange a meeting to try it. | 6 sources | 2024-07 | - |
+| 5 | Vous souhaitez vendre votre vélo. Écrivez un courriel à cette adresse en décrivant ses caractéristiques. | Write an email to sell your bike, describing its features. | 4 sources | 2023-05 | - |
+| 6 | Vous voulez vendre votre vélo. Rédigez un courriel présentant le vélo et son prix, puis proposez un rendez-vous pour que l’acheteur puisse l’essayer. | The candidate must write an email selling a bike, including price and a meeting to test it. | 4 sources | 2023-11 | - |
+| 7 | « Ateliers gratuits, spectacles, activités diverses. On vous attend vendredi à partir de 9h ! » | Read a flyer announcing a free event with workshops, concerts and activities starting Friday at 9am. | 4 sources | 2024-08 | - |
 
 ## Education
 
@@ -78,13 +79,14 @@ A message to one or more people, 60 to 120 words.
 | 5 | Vous venez d'entamer vos études à l'Université de Montréal. Écrivez un message à un(e) ami(e) dans lequel vous racontez votre toute première semaine sur place, en donnant aussi votre opinion sur l'université et les cours suivis. | Write a message to a friend recounting your first week at university in Montreal and giving your opinion of it. | 6 sources | 2023-02 | - |
 | 6 | Écrivez un courriel à votre ami francophone pour lui demander de l'aide dans votre recherche de logement, en précisant toutes les informations utiles (type de logement, budget, date). | The candidate must write an email asking a French-speaking friend for help finding housing, giving relevant details. | 6 sources | 2023-04 | - |
 | 7 | Vous vous apprêtez à déménager à Nice. Vous postez une annonce sur le site d'une agence immobilière en précisant les informations utiles (surface, budget, nombre de pièces, etc.). | Write a message on a real estate website stating your requirements for an apartment in Nice. | 6 sources | 2023-10 | - |
-| 8 | Vous avez vu une annonce sur un site internet qui aide les apprenants de français à trouver des partenaires linguistiques pour progresser. Écrivez un courriel de réponse à cette annonce en vous présentant et en expliquant vos motivations pour pratiquer le français. | The candidate must write an email responding to an ad, introducing themselves and explaining why they want to practice French. | 6 sources | 2024-12 | - |
-| 9 | Vous venez d’emménager dans un nouveau logement et vous cherchez un(e) colocataire. Rédigez une annonce donnant toutes les informations utiles sur le logement (emplacement, superficie, loyer, etc.) et décrivant le profil de la personne recherchée (personnalité, habitudes de vie, etc.). | Write a classified ad for a roommate giving housing details and describing the desired flatmate's profile. | 5 sources | 2025-11 | - |
-| 10 | Répondez au message d'un ami qui souhaite s'inscrire dans la même école de langues que vous. | Reply to a friend's message about enrolling in the same language school as you. | 4 sources | 2023-05 | - |
-| 11 | Vous avez réservé une chambre d'hôtel pour Matthias. Envoyez-lui un courriel détaillant l'établissement, notamment sa localisation, son tarif et les prestations offertes. | Write an email to Matthias detailing a hotel booking, including location, price and services. | 4 sources | 2023-05 | - |
-| 12 | Votre ami Mehdi vient de s'installer dans votre ville et souhaite savoir comment se déplacer. Rédigez-lui un message pour lui expliquer les différents moyens de transport disponibles, les formules d'abonnement et leurs prix. | Write a message to a friend explaining local transport options, subscriptions and prices. | 4 sources | 2024-04 | - |
-| 13 | Vous préparez une fête surprise pour l'anniversaire de votre meilleur(e) ami(e). Rédigez un message aux invités contenant toutes les informations utiles (programme, cadeau, lieu, etc.). | The candidate must write a message to guests with all details for a surprise birthday party. | 4 sources | 2024-09 | - |
-| 14 | Votre établissement scolaire vous a chargé(e) d'organiser une journée de bienvenue destinée aux nouveaux étudiants francophones. Rédigez, à leur attention, un courriel comportant toutes les informations nécessaires au bon déroulement de cette journée. | Write an email to new francophone students giving all the practical details of a welcome day you're organizing. | 3 sources | 2023-04 | - |
+| 8 | Vous venez d'intégrer une nouvelle université. Décrivez à vos amis comment se passent les cours, les relations avec les professeurs et les autres étudiants, ainsi que les activités proposées. | Write to friends describing how things are going at your new university. | 6 sources | 2023-11 | - |
+| 9 | Vous avez vu une annonce sur un site internet qui aide les apprenants de français à trouver des partenaires linguistiques pour progresser. Écrivez un courriel de réponse à cette annonce en vous présentant et en expliquant vos motivations pour pratiquer le français. | The candidate must write an email responding to an ad, introducing themselves and explaining why they want to practice French. | 6 sources | 2024-12 | - |
+| 10 | Vous venez d’emménager dans un nouveau logement et vous cherchez un(e) colocataire. Rédigez une annonce donnant toutes les informations utiles sur le logement (emplacement, superficie, loyer, etc.) et décrivant le profil de la personne recherchée (personnalité, habitudes de vie, etc.). | Write a classified ad for a roommate giving housing details and describing the desired flatmate's profile. | 5 sources | 2025-11 | - |
+| 11 | Répondez au message d'un ami qui souhaite s'inscrire dans la même école de langues que vous. | Reply to a friend's message about enrolling in the same language school as you. | 4 sources | 2023-05 | - |
+| 12 | Vous avez réservé une chambre d'hôtel pour Matthias. Envoyez-lui un courriel détaillant l'établissement, notamment sa localisation, son tarif et les prestations offertes. | Write an email to Matthias detailing a hotel booking, including location, price and services. | 4 sources | 2023-05 | - |
+| 13 | Votre ami Mehdi vient de s'installer dans votre ville et souhaite savoir comment se déplacer. Rédigez-lui un message pour lui expliquer les différents moyens de transport disponibles, les formules d'abonnement et leurs prix. | Write a message to a friend explaining local transport options, subscriptions and prices. | 4 sources | 2024-04 | - |
+| 14 | Vous préparez une fête surprise pour l'anniversaire de votre meilleur(e) ami(e). Rédigez un message aux invités contenant toutes les informations utiles (programme, cadeau, lieu, etc.). | The candidate must write a message to guests with all details for a surprise birthday party. | 4 sources | 2024-09 | - |
+| 15 | Votre établissement scolaire vous a chargé(e) d'organiser une journée de bienvenue destinée aux nouveaux étudiants francophones. Rédigez, à leur attention, un courriel comportant toutes les informations nécessaires au bon déroulement de cette journée. | Write an email to new francophone students giving all the practical details of a welcome day you're organizing. | 3 sources | 2023-04 | - |
 
 ## Family
 
