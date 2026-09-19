@@ -1,5 +1,5 @@
 name: Report a question
-description: Tell us a writing or speaking scenario, or a reading or listening topic, you got in the TCF Canada.
+description: Tell us a writing or speaking scenario, or a reading or listening topic, you got in the TCF (Canada, Québec, IRN or tout public).
 title: "[Report] "
 labels: ["report"]
 body:

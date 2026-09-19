@@ -1,6 +1,8 @@
-# TCF Canada questions
+# TCF questions
 
-Writing and speaking scenarios and reading and listening topics for the **TCF Canada**, the French test used for Canadian immigration. **Compiled from candidate reports**: every entry is something candidates said they got, collected from public posts and reworded by [FlexiLingo](https://www.flexilingo.com).
+**What candidates say they got.** Writing and speaking scenarios and reading and listening topics that TCF candidates shared publicly after their exam, reworded by [FlexiLingo](https://www.flexilingo.com).
+
+The reports come from TCF Canada candidates, and the task types are the same in TCF Québec and TCF tout public, so they work for those too.
 
 Browse and practise them with full analyses at [flexilingo.com](https://www.flexilingo.com/en/tcf-canada/questions).
 
@@ -26,11 +28,11 @@ Browse and practise them with full analyses at [flexilingo.com](https://www.flex
 
 ## Report a question
 
-Sat the exam recently? Tell us what you got: [open a report](https://github.com/flexilingo/tcf-canada-questions/issues/new?template=report-a-question.yml). See [CONTRIBUTING.md](CONTRIBUTING.md) for what happens next.
+Sat the exam recently? Tell us what you got: [open a report](https://github.com/flexilingo/tcf-questions/issues/new?template=report-a-question.yml). See [CONTRIBUTING.md](CONTRIBUTING.md) for what happens next.
 
-## Disclaimer
+## About these questions
 
-**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
+Every entry is a candidate report, rewritten in our own words, with how many independent sources mentioned it and the month it first appeared. Nobody can promise what comes up in your session. Candidate experiences, reworded by FlexiLingo — not official exam material, and not affiliated with France Éducation international.
 
 ## License
 

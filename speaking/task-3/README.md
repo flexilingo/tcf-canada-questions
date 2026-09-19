@@ -1,4 +1,4 @@
-# TCF Canada Speaking Task 3
+# TCF Speaking Task 3
 
 [Back to the overview](../../README.md)
 
@@ -335,6 +335,6 @@ Give and defend your point of view, no preparation, 4 minutes 30.
 
 ---
 
-**Disclaimer.** These are not official exam questions. They are compiled from what candidates publicly reported after sitting the exam, then reworded by FlexiLingo. Nobody can guarantee what will come up in your session. This project is not affiliated with France Éducation international (FEI) or Immigration, Refugees and Citizenship Canada (IRCC). "TCF" is a trademark of FEI, used here only to describe the exam.
+Candidate experiences, reworded by FlexiLingo — not official exam material, and not affiliated with France Éducation international.
 
 Content licensed [CC BY 4.0](../../LICENSE) - credit [FlexiLingo](https://www.flexilingo.com) with a link when you reuse it.
